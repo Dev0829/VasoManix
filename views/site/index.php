@@ -240,9 +240,11 @@ $this->params['data'] = ['page' => 'home', 'title' => 'Home'];
   <div class="container">
     <h2 class="mt-0 mb-0 text-left">THE COMPLEX SCIENCE <br class="desktop-only">OF PENIS ENLARGEMENT</h2>
     <p class="bold">VASOMANIX REVEALS THE ONLY PROVEN METHOD TO<br class="desktop-only"> INCREASE PENIS LENGTH AND THICKNESS</p>
-    <div class="effect-section">
+    <div class="effect-section d-flex">
       <div class="effect_pane">
-        
+        <img class="effect_1" src="/products/images/effect_1.png">
+        <p class="effect_title mt-0 mb-0">STEP1</p>
+        <p class="effect_des">LIBIDO ENHANCEMENT</p>
       </div>
     </div>
   </div>

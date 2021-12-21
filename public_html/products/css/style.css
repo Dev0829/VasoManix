@@ -535,9 +535,34 @@ h3 {
 .wrapper-12 h2 {
   font-size: 60px;
 }
-
-
-
+/******* Start: effect_pane *******/
+.effect_pane {
+  position: relative;
+  transform: rotate(20deg);
+  border: 1px solid red;
+  width: 217px;
+  height: 557px;
+  padding: 10px;
+}
+.effect_1 {
+  position: absolute;
+  transform: rotate(-20deg);
+  width: 460px;
+  height: 557px;
+  left: -123px;
+  z-index: -1;
+}
+.effect_title {
+  font-size: 40px;
+  font-family: 'RiftBoldItalic';
+  transform: rotate(-20deg);
+}
+.effect_des {
+  font-size: 20px;
+  font-family: 'RiftBoldItalic';
+  transform: rotate(-20deg);
+}
+/******* End: effect_pane *******/
 
 
 
