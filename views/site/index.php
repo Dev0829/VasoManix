@@ -14,41 +14,28 @@ $this->params['data'] = ['page' => 'home', 'title' => 'Home'];
     <div class="clearfix"></div>
   </div>
 </div>
-<div class="wrapper-2">
-  <img class="bg_wrapper2" src="/products/images/bg_wrapper2.png">
-  <div class="container">
-    <div class="top_pane">
-      <img class="actor2_avatar" src="/products/images/actor_2.png">
-      <div class="offer_pane">
-        <h2>IS <span class="lightgrey">SUPERIOR MALE</span> THE <br class="desktop-only"><span class="red">RIGHT</span> SUPPLEMENT<br class="desktop-only"> FOR YOU?</h2>
-        <button class="uppercase">Answer these 4 questions</button>
+<div class="wrapper-2 section-space">
+  <div class="container text-center">
+    <h2 class="mt-30">ARE YOU FEELING CONFIDENT WITH YOUR 6-INCH PENIS?</h2>
+    <p>You may have seen or heard about the statistics. A worldwide study was conducted on average penis size, and the researchers came up with the magic number – 5.43 inches is the average worldwide penis size. That must make you feel good, right?</p>
+    <p class="semibold">THINK AGAIN.</p>
+    <p>The study also includes specific average measurements for each country, and the average erect penis size for AMERICAN MEN is 6 inches. It must make Americans proud to have above - average penis size, but the reality is this – average is just average.</p>
+    <h3 class="riftbold">Just look at these statistics.</h3>
+    <div class="top_pane d-flex pb-15 mb-30">
+      <div class="d-flex flex-direction-column pl-30 pr-30">
+        <img src="/products/images/men_1.png">
+        <p>7 out of 10 American men have erections that measure 6 inches or more</p>
+      </div>
+      <div class="d-flex flex-direction-column pl-30 pr-30">
+        <img src="/products/images/men_2.png">
+        <p>1 out of 10 American men have erections that measure 8 inches or more</p>
+      </div>
+      <div class="d-flex flex-direction-column pl-30 pr-30">
+        <img src="/products/images/men_3.png">
+        <p>2 out of 10 American Men have erections shorter than 6 inches.</p>
       </div>
     </div>
-  </div>
-  <div class="item_section section-space bg-lightgrey">
-    <img class="bg_effect" src="/products/images/bg_effect.png">
-    <div class="container">
-      <div class="question_pane">
-        <div class="image_part">
-          <img src="/products/images/item_1.png">
-        </div>
-        <div class="description_part">
-          <p class="title">Question 1 of 4</p>
-          <p class="description grey medium">Do you want to get bigger and <br class="desktop-only">harder erections?</p>
-          <div class="btn_pane">
-            <div class="btn_check">
-              <img src="/products/images/btn_check.png">
-              <h3 class="grey">YES</h3>
-            </div>
-            <div class="btn_check failed">
-              <img src="/products/images/btn_fail.png">
-              <h3 class="grey">NO</h3>
-            </div>
-          </div>
-        </div>
-      </div>
-      <p class="description ml-30 mt-30 grey answer_txt">The simple truth is that BIGGER is always BETTER when it comes to erection size. Countless research, tests, and surveys say that women have more satisfying orgasms when having sex with well-endowed men, and the #1 reason why women fail to orgasm is because of their partner’s erection size. Here’s the kicker – women only orgasm 10% of the time, and if your erection is on the small to average size, that means that you’re not satisfying your wife or girlfriend in bed.</p>
-    </div>
+    <p>Would you still be proud of having a 6-inch penis when 72% of men have the same penis size or even longer? Think about it. Are you the biggest guy she’s ever been with, or she’s just afraid of hurting your feelings? If your PENIS SIZE was never mentioned by your wife or girlfriend, then you should already know what that means. Chances are she’s been with someone BIGGER – and you should act FAST.</p>
   </div>
 </div>
 <div class="wrapper-3 bg-white">

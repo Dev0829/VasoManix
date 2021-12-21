@@ -100,14 +100,12 @@ h1 {
 }
 h2 {
   text-align: center;
-  font-size: 45px;
-  font-family: "PoppinsBold";
+  font-size: 50px;
+  font-family: "RiftBold";
   line-height: 1.2;
-  margin: 0;
 }
 h3 {
-  font-size: 25px;
-  font-weight: 400;
+  font-size: 30px;
 }
 .clearfix {
   display: block;
@@ -133,6 +131,9 @@ h3 {
 }
 .pr-15 {
   padding-right: 15px;
+}
+.pr-30 {
+  padding-right: 30px;
 }
 .pt-15 {
   padding-top: 15px;
@@ -209,8 +210,8 @@ h3 {
 .position-relative {
   position: relative;
 }
-.bold {
-  font-family: "PoppinsBold";
+.riftbold {
+  font-family: "RiftBold";
 }
 .semibold {
   font-family: "MontserratSemiBold"; 
@@ -233,32 +234,23 @@ h3 {
 .RiftRegular {
   font-family: "RiftRegular";
 }
-.MontserratLight {
+.light {
   font-family: "MontserratLight";
 }
-.MontserratRegular {
-  font-family: "MontserratRegular";
+.bolditalic {
+  font-family: "MontserratBoldItalic";
 }
-.light {
-  font-family: "PoppinsLight";
+.medium {
+  font-family: "MontserratMedium";
+}
+.mediumitalic {
+  font-family: "MontserratMediumItalic";
+}
+.SemiBoldItalic {
+  font-family: "MontserratSemiBoldItalic"; 
 }
 .italic {
   font-style: italic;
-}
-.bolditalic {
-  font-family: "PoppinsBoldItalic";
-}
-.medium {
-  font-family: "PoppinsMedium";
-}
-.mediumitalic {
-  font-family: "PoppinsMediumItalic";
-}
-.SemiBoldItalic {
-  font-family: "PoppinsSemiBoldItalic"; 
-}
-.extrabold {
-  font-family: "ExtraBold";
 }
 .uppercase {
   text-transform: uppercase;
@@ -281,7 +273,7 @@ h3 {
 .title {
   font-size: 35px;
   line-height: 1.2;
-  font-family: "PoppinsSemibold";
+  font-family: "MontserratSemibold";
   margin: 0;
 }
 .description {
@@ -346,7 +338,6 @@ h3 {
   height: 100%;
 }
 .wrapper-1,
-.wrapper-2,
 .wrapper-4,
 .wrapper-5,
 .wrapper-6,
@@ -361,11 +352,9 @@ h3 {
   position: relative;
 }
 .bg_wrapper1,
-.bg_wrapper2,
 .bg_wrapper9,
 .bg_wrapper12,
 .bg_wrapper13,
-.bg_effect,
 .bg_effect8,
 .bg_result,
 .bg_trophy,
@@ -417,18 +406,18 @@ h3 {
 .information_pane {
   background-color: #170000d4;
   padding: 30px;
-  margin-right: -15%;
-}
-.actor2_avatar {
-  width: fit-content;
-  margin-bottom: -30px;
-}
-.bg_wrapper2 {
-  height: 70%;
+  margin-right: -7%;
 }
 .top_pane {
-  display: flex;
-  align-items: center;
+  border-bottom: 1px solid #cfcfcf;
+}
+.top_pane .d-flex {
+  width: 33.33%;
+}
+.top_pane img {
+  width: 270px;
+  height: fit-content;
+  margin: 0 auto;
 }
 .offer_pane button {
   background-color: #7c090c;
@@ -436,7 +425,7 @@ h3 {
   padding: 10px 30px;
   margin-top: 15px;
   color: #fff;
-  font-family: "PoppinsMedium";
+  font-family: "MontserratMedium";
   outline: none;
   border: none;
   position: relative;
@@ -470,10 +459,6 @@ h3 {
 }
 .answer_txt {
   display: none;
-}
-.bg_effect {
-  top: -70%;
-  z-index: 1;
 }
 .wrapper-3 li {
   font-size: 20px;
@@ -539,7 +524,7 @@ h3 {
 }
 .badge_text {
   color: #00c3ff;
-  font-family: "PoppinsLight";
+  font-family: "MontserratLight";
   font-size: 23px;
   margin-left: 1rem;
 }
@@ -640,16 +625,6 @@ h3 {
   position: relative;
   z-index: 2;
 }
-.title-3,
-.title-4 {
-  font-size: 50px;
-  font-family: PoppinsSemibold;
-  line-height: 1.2;
-  margin: 0;
-}
-.title-4 {
-  font-size: 62px;
-}
 .wrapper-9 .title:after {
   content: '';
   position: absolute;
@@ -669,7 +644,7 @@ h3 {
 }
 .wrapper-11 .title {
   color: #d0d0d0;
-  font-family: "PoppinsMedium";
+  font-family: "MontserratMedium";
   font-size: 37px;
   line-height: 1.5;
 }
@@ -710,13 +685,10 @@ h3 {
   color: #ffa801;
 }
 .wrapper-13 h2 {
-  font-family: "PoppinsSemiBold";
+  font-family: "MontserratSemiBold";
 }
 .wrapper-13 .effect_des {
   padding-bottom: 60px;
-}
-.title-5 {
-  font-size: 30px;
 }
 .wrapper-15 {
   background: url("../images/bg_red.png");
@@ -759,9 +731,6 @@ h3 {
 .title-6 {
   font-size: 32px;
 }
-.wrapper-15 .title-3 {
-  font-family: "PoppinsBold";
-}
 .grid_pane {
   display: flex;
   align-items: center;
@@ -784,7 +753,7 @@ h3 {
   background-size: 100% 100%;
   background-image: url("../images/order_btn.png");
   font-size: 48px;
-  font-family: "PoppinsBold";
+  font-family: "MontserratBold";
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -817,7 +786,7 @@ footer .description {
   display: block;
   font-size: 20px;
   padding: 0 15px;
-  font-family: "PoppinsMedium";
+  font-family: "MontserratMedium";
   cursor: pointer;
   opacity: 0.8;
 }
@@ -1340,10 +1309,6 @@ body.thankyou .main-section h2 {
   .nav-wrapper img.icon_phone {
     width: 25px;
   }
-  .title-5.bebas {
-    margin: 0;
-    margin-left: 5px;
-  }
   .security {
     margin-top: 5px;
   }
@@ -1387,7 +1352,6 @@ body.thankyou .main-section h2 {
   .testimonial_pane .image_part {
     width: 200px;
   }
-  .top_pane,
   .question_pane,
   .testimonial_pane .container,
   .trophy_pane,
@@ -1400,20 +1364,6 @@ body.thankyou .main-section h2 {
     width: 90%;
     margin-left: 5%;
   }
-  .bg_wrapper2 {
-    height: 50%;
-  }
-  .bg_effect {
-    top: -80%;
-    height: 120%;
-  }
-  .offer_pane {
-    position: relative;
-    z-index: 3;
-    text-align: center;
-    margin-bottom: 30px;
-    margin-top: -30px;
-  }
   .description_part,
   .image_part {
     width: 100%;
@@ -1421,10 +1371,6 @@ body.thankyou .main-section h2 {
   }
   .title {
     font-size: 25px;
-  }
-  .offer_pane button {
-    font-size: 17px;
-    padding: 5px 30px;
   }
   .wrapper-3 ul {
     margin-left: 0;
@@ -1550,9 +1496,6 @@ body.thankyou .main-section h2 {
   .effect_des {
     padding-top: 60px;
   }
-  .title-3 {
-    font-size: 25px;
-  }
   .wrapper-9 {
     padding: 15px;
   }
@@ -1633,9 +1576,6 @@ body.thankyou .main-section h2 {
     margin-top: 0;
     margin-bottom: 30px;
   }
-  .title-5 {
-    font-size: 25px;
-  }
   .wrapper-15 {
     background: unset;
     padding-bottom: 0;
@@ -1650,24 +1590,7 @@ body.thankyou .main-section h2 {
     width: 100%;
     left: 0;
   }
-  .wrapper-15 .title-3 {
-    font-size: 28px;
-    padding-top: 60px;
-  }
-  .tile_pane {
-
-  }
-  .title-6 {
-    font-size: 18px;
-    padding: 10px;
-  }
-  .title-5 {
-    font-size: 18px;
-  }
   .five_stars {
-    margin-left: 0;
-  }
-  .wrapper-15 .title-5.yellow {
     margin-left: 0;
   }
   .grid_des {
@@ -1676,9 +1599,6 @@ body.thankyou .main-section h2 {
   }
   .check {
     width: 25px;
-  }
-  .wrapper-15 .title-5.yellow {
-    font-size: 20px;
   }
   .order-btn {
     font-size: 37px;
