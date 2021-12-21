@@ -237,6 +237,9 @@ h3 {
 .light {
   font-family: "MontserratLight";
 }
+.bold {
+  font-family: "MontserratBold";
+}
 .bolditalic {
   font-family: "MontserratBoldItalic";
 }
@@ -480,8 +483,15 @@ h3 {
   margin: 0 auto;
 }
 .wrapper-9 p,
-.wrapper-10 p {
+.wrapper-10 p,
+.testimonial_pane p {
   line-height: 1.5;
+}
+.actor_3 {
+  width: fit-content;
+  right: 0;
+  left: unset;
+  top: 15px;
 }
 .medal {
   width: 132px;
@@ -498,14 +508,33 @@ h3 {
   flex-direction: column;
   margin: 0 30px;
 }
+.testimonial_pane {
+  flex: 0 0 40%;
+  position: relative;
+  background-color: #d94141;
+  border-radius: 5px;
+  padding: 100px 30px 30px;
+  margin: 60px 15px;
+}
+.testimonial_pane .description {
+  font-size: 16px;
+  min-height: 168px;
+}
+.testimonial_pane .second {
+  min-height: 120px;
+}
 .testimonial_actor {
   width: fit-content;
   height: fit-content;
+  position: absolute;
+  top: -85px;
 }
 .stars {
   width: 160px;
 }
-
+.wrapper-12 h2 {
+  font-size: 60px;
+}
 
 
 
@@ -542,51 +571,6 @@ h3 {
 }
 .item_pane img.stars {
   width: 70%;
-}
-.wrapper-15 {
-  background: url("../images/bg_red.png");
-  background-position: center -14%;
-  background-color: #f5f5f5;
-  background-repeat: no-repeat;
-}
-.wrapper-15 .container {
-  z-index: 4;
-}
-.bg_red {
-  z-index: 1;
-  bottom: -50%;
-  height: fit-content;
-  top: unset;
-}
-.tile_pane {
-  position: absolute;
-  z-index: 3;
-  display: flex;
-  justify-content: center;
-  width: calc(100% - 60px);
-  height: calc(100% - 30px);
-  left: 30px;
-  top: unset;
-  bottom: 30px;
-}
-.bg_tile {
-  max-width: 1630px;
-}
-.wrapper-15 .image_part,
-.wrapper-15 .description_part {
-  width: 50%;
-  margin: 0 15px 0 0;
-}
-.wrapper-15 .title-5.yellow {
-  color: #ddc15c;
-  margin-left: -100px;
-}
-.title-6 {
-  font-size: 32px;
-}
-.five_stars {
-  margin-top: -80px;
-  margin-left: -100px;
 }
 .order-btn {
   background-size: 100% 100%;

@@ -87,6 +87,173 @@ $this->params['data'] = ['page' => 'home', 'title' => 'Home'];
     <img class="bottle" src="/products/images/bottle.png">
   </div>
 </div>
+<div class="wrapper-6 section-space">
+  <div class="container">
+    <h2 class="text-left mt-15 mb-30">OUR STORY</h2>
+    <p>We conceptualized VasoManix in early 2010, with our core team of experts, including: nutritionists, sexologists, and naturopathy practitioners. Our goal was ambitious from the start - to create a revolutionary formula that can guarantee an increase in penis length and thickness. We spent the next 10 years on research, traveling through 5 continents, to source the best ingredients that would deliver the results that men want. </p>
+    <p>We established our headquarters in New York, with satellite research offices in India, Indonesia, China, and France, to study the best ingredients needed to boost sex drive, stamina, and size. Our research uncovered natural herbs and ingredients that are highly capable of increasing testosterone and blood flow, but to reach the level of real penis enlargement, we knew we had to surpass existing technologies to unleash the true capabilities of these ingredients. </p>
+    <p>In 2018, we created a patent-pending formulation technology known as TruePotency™, a highly advanced purification method to extract active components from herbal sources. TruePotency™ enabled us to maximize ingredient potency in compact dosages, and this exponentially increased the effectiveness of our ingredients tenfold by allowing up to a 288% increase in nutrient bioavailability for proven and remarkable results.   </p>
+    <p>By maximizing the potential of each milligram of the formula, we were able to finally achieve real penis enlargement results. VasoManix is the only penis enlargement supplement with scientifically verified ingredients and standardized extracts to boost sex drive, size, and stamina – and now, you can experience the results for yourself. </p>
+  </div>
+</div>
+<div class="wrapper-7 section-space">
+  <img class="bg_wrapper7" src="/products/images/bg_wrapper7.png">
+  <div class="container">
+    <h2 class="uppercase mt-0">What <span class="red">VASOMANIX</span> CAN DO FOR YOU</h2>
+    <div class="d-flex white text-center pt-30">
+      <div class="d-flex flex-direction-column pl-30 pr-30">
+        <img class="item" src="/products/images/item_1.png">
+        <p>Increase penis length and thickness</p>
+      </div>
+      <div class="d-flex flex-direction-column pl-30 pr-30">
+        <img class="item" src="/products/images/item_2.png">
+        <p>Maximize sex drive and energy</p>
+      </div>
+      <div class="d-flex flex-direction-column pl-30 pr-30">
+        <img class="item" src="/products/images/item_3.png">
+        <p>Boost sexual performance and stamina</p>
+      </div>
+      <div class="d-flex flex-direction-column pl-30 pr-30">
+        <img class="item" src="/products/images/item_4.png">
+        <p>Boost semen volume</p>
+      </div>
+      <div class="d-flex flex-direction-column pl-30 pr-30">
+        <img class="item last" src="/products/images/item_5.png">
+        <p>Extend sexual pleasure and satisfaction</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="wrapper-8 pt-60 pb-15">
+  <div class="container text-center">
+    <h2 class="mb-0">VASOMANIX IS THE ONLY SCIENTIFICALLY PROVEN <br class="desktop-only">FORMULA TO DELIVER ALL OF THESE BENEFITS</h2>
+    <h3 class="grey RiftBold">DON’T SETTLE FOR ANYTHING LESS <br class="desktop-only">CHOOSE VASOMANIX</h3>
+    <h3 class="RiftDemi">SEE HOW VASOMANIX DOMINATES THE COMPETITION</h3>
+    <img class="table mt-30" src="/products/images/table.png">
+  </div>
+</div>
+<div class="wrapper-9">
+  <img class="bg_wrapper9" src="/products/images/bg_wrapper9.jpg">
+  <div class="container d-flex">
+    <div class="col-7 pt-30 pb-60 pr-30">
+      <h2 class="mb-0 text-left">BREAKTHROUGH <br class="desktop-only"><span class="red">PENIS ENLARGEMENT PILL</span></h2>
+      <p class="semibold grey">CERTIFIED BY WebMDMen as the ONLY PROVEN <br class="desktop-only">PENIS ENLARGEMENT FORMULA</p>
+      <p class="pt-30">Researchers from the highly respected WebMDMen publication certify VasoManix as the world’s FIRST and ONLY scientifically proven penis enlargement formula.</p>
+      <p class="pt-15">“After a careful review of VasoManix’s ingredients, technology, formula, and dosage, our team concluded that VasoManix has the strongest, most potent formula ever created to help increase penis length and girth. We worked closely with the scientists of VasoManix to understand the mechanics and science behind the formula, and we are incredibly surprised at the level of perfection that VasoManix presents to the struggling industry. For years, we’ve debunked hundreds of substandard male enhancement pills, and VasoManix definitively proves that penis enlargement is 100% possible and attainable for every man. Our research shows that men can gain 30-40% increased erect penis length and girth, and amazing progress is exhibited with every dose. Clearly, VasoManix is the only gold standard in penis enlargement supplements”</p>
+      <p class="pt-15">— Dr. James Jacobs, Lead Research Fellow, WebMDMen</p>
+    </div>
+    <div class="col-5 position-relative">
+      <img class="actor_3" src="/products/images/actor_3.png">
+    </div>
+  </div>
+</div>
+<div class="wrapper-10 section-space white">
+  <img class="bg_wrapper10" src="/products/images/bg_wrapper10.png">
+  <h2>THE TRUE ADVANTAGE OF <br class="desktop-only">VASOMANIX</h2>
+  <div class="container">
+    <div class="medal_pane d-flex align-center pt-30 pb-30">
+      <div class="image_part d-flex">
+        <img class="medal" src="/products/images/medal_1.png">
+      </div>
+      <div class="description_part text-left">
+        <p class="title mb-0 bold">SCIENTIFICALLY PROVEN</p>
+        <p>VasoManix contains scientifically proven ingredients and standardized extracts to enhance testosterone levels and blood flow to produce an unparalleled increase in your sex drive, stamina, energy, sexual performance, and erection length and thickness.</p>
+      </div>
+    </div>
+    <div class="medal_pane d-flex align-center mt-30 pb-30">
+      <div class="image_part d-flex">
+        <img class="medal" src="/products/images/medal_2.png">
+      </div>
+      <div class="description_part text-left">
+        <p class="title mb-0 bold">EXCLUSIVE INGREDIENTS</p>
+        <p>VasoManix features the most potent ingredient variants to ensure the strength and effectiveness of the formula. Each ingredient is carefully selected, extracted, and purified for maximum potency, absorption, and bioavailability.</p>
+      </div>
+    </div>
+    <div class="medal_pane d-flex align-center mt-30 pb-30">
+      <div class="image_part d-flex">
+        <img class="medal" src="/products/images/medal_3.png">
+      </div>
+      <div class="description_part text-left">
+        <p class="title mb-0 bold">STANDARDIZED EXTRACTS</p>
+        <p>VasoManix is powered by purified extracts that contain a consistent amount of active compounds for accurate dosage measurements. These extracts undergo a highly specialized purification process exclusively used by VasoManix.</p>
+      </div>
+    </div>
+    <div class="medal_pane d-flex align-center mt-30 pb-30">
+      <div class="image_part d-flex">
+        <img class="medal" src="/products/images/medal_4.png">
+      </div>
+      <div class="description_part text-left">
+        <p class="title mb-0 bold">100% MONEY-BACK GUARANTEE</p>
+        <p>We firmly believe that you shouldn’t pay for products that do not work as intended. We spent years developing and perfecting VasoManix’s formula, and that’s how we know that it works 100%. We are extremely confident that you’ll be shocked and amazed by the results you get with VasoManix that we’ll give 100% of your money back if you are not satisfied with your results.</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="wrapper-11 pt-60">
+  <div class="container">
+    <h2 class="pb-60">DON’T JUST TAKE OUR WORD FOR IT!<br><span class="red">GET IT STRAIGHT FROM VASOMANIX MEN!</span></h2>
+    <div class="d-flex justify-content-center">
+      <div class="testimonial_pane white">
+        <img class="testimonial_actor" src="/products/images/actor_4.png">
+        <p class="description">“I love my boyfriend, but we reached a point where I don’t get satisfied with sex anymore. I kept thinking about guys who were bigger than him and it makes me feel guilty over nothing. I went online and bought him VasoManix – and WOW. He grew so much that I forgot about everything else! He’s now the biggest guy I’ve ever been with!”</p>
+        <h3 class="mb-0">Anne</h3>
+        <p class="mt-0 mb-0">Miami, Florida</p>
+        <img class="stars" src="/products/images/stars.png">
+      </div>
+      <div class="testimonial_pane white">
+        <img class="testimonial_actor" src="/products/images/actor_5.png">
+        <p class="description">“VasoManix kicks in pretty fast. I felt great energy in my first few doses. My wife was just surprised at how gung-ho I was in bed. Pretty soon she noticed that I was getting bigger. One time, she thought I was pushing a big toy inside her when all she was feeling was my rock-hard penis!” </p>
+        <h3 class="mb-0">Kevin</h3>
+        <p class="mt-0 mb-0">Phoenix, Arizona</p>
+        <img class="stars" src="/products/images/stars.png">
+      </div>
+    </div>
+    <div class="d-flex justify-content-center">
+      <div class="testimonial_pane white">
+        <img class="testimonial_actor" src="/products/images/actor_6.png">
+        <p class="description second">“My boyfriend started taking VasoManix as a dare. I didn’t expect how big he would get! I felt my lady parts get stretched beyond anything I’ve felt before, and he hit spots I didn’t know existed! Every time we have sex feels like the best sex of our lives. I love it!”</p>
+        <h3 class="mb-0">Jenny</h3>
+        <p class="mt-0 mb-0">Cleveland, Ohio</p>
+        <img class="stars" src="/products/images/stars.png">
+      </div>
+      <div class="testimonial_pane white">
+        <img class="testimonial_actor" src="/products/images/actor_7.png">
+        <p class="description second">“It didn’t take long before I started seeing the results from VasoManix. Two months ago, I was just a shy IT guy who can’t talk to women. Now, I’m still a shy IT guy with a big dick, and the women at work just can’t seem to shut up about how big I am.” </p>
+        <h3 class="mb-0">Dave</h3>
+        <p class="mt-0 mb-0">Baltimore, Maryland</p>
+        <img class="stars" src="/products/images/stars.png">
+      </div>
+    </div>
+    <div class="d-flex justify-content-center">
+      <div class="testimonial_pane white">
+        <img class="testimonial_actor" src="/products/images/actor_8.png">
+        <p class="description">“After 30 years of working, I finally had time to enjoy myself. I bought a bottle of VasoManix to help me get erect, but man, it did way more than just that. It almost felt like I was back in my twenties the way I’m banging women these days, and I see a major improvement in my size! I didn’t know my penis could get this big!” </p>
+        <h3 class="mb-0">Danny</h3>
+        <p class="mt-0 mb-0">New York City</p>
+        <img class="stars" src="/products/images/stars.png">
+      </div>
+    </div>
+  </div>
+</div>
+<div class="wrapper-12 section-space white">
+  <img class="bg_wrapper12" src="/products/images/bg_wrapper12.png">
+  <div class="container">
+    <h2 class="mt-0 mb-0 text-left">THE COMPLEX SCIENCE <br class="desktop-only">OF PENIS ENLARGEMENT</h2>
+    <p class="bold">VASOMANIX REVEALS THE ONLY PROVEN METHOD TO<br class="desktop-only"> INCREASE PENIS LENGTH AND THICKNESS</p>
+    <div class="effect-section">
+      <div class="effect_pane">
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
 <div class="wrapper-27 bg-lightgrey section-space">
   <div class="container">
     <div class="item-wrapper">
@@ -169,162 +336,6 @@ $this->params['data'] = ['page' => 'home', 'title' => 'Home'];
           <span class="star_mark">5.0</span>
           <img class="stars" src="/products/images/stars.png">
         </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="wrapper-6 section-space">
-  <div class="container">
-    <h2 class="text-left mt-15 mb-30">OUR STORY</h2>
-    <p>We conceptualized VasoManix in early 2010, with our core team of experts, including: nutritionists, sexologists, and naturopathy practitioners. Our goal was ambitious from the start - to create a revolutionary formula that can guarantee an increase in penis length and thickness. We spent the next 10 years on research, traveling through 5 continents, to source the best ingredients that would deliver the results that men want. </p>
-    <p>We established our headquarters in New York, with satellite research offices in India, Indonesia, China, and France, to study the best ingredients needed to boost sex drive, stamina, and size. Our research uncovered natural herbs and ingredients that are highly capable of increasing testosterone and blood flow, but to reach the level of real penis enlargement, we knew we had to surpass existing technologies to unleash the true capabilities of these ingredients. </p>
-    <p>In 2018, we created a patent-pending formulation technology known as TruePotency™, a highly advanced purification method to extract active components from herbal sources. TruePotency™ enabled us to maximize ingredient potency in compact dosages, and this exponentially increased the effectiveness of our ingredients tenfold by allowing up to a 288% increase in nutrient bioavailability for proven and remarkable results.   </p>
-    <p>By maximizing the potential of each milligram of the formula, we were able to finally achieve real penis enlargement results. VasoManix is the only penis enlargement supplement with scientifically verified ingredients and standardized extracts to boost sex drive, size, and stamina – and now, you can experience the results for yourself. </p>
-  </div>
-</div>
-<div class="wrapper-7 section-space">
-  <img class="bg_wrapper7" src="/products/images/bg_wrapper7.png">
-  <div class="container">
-    <h2 class="uppercase mt-0">What <span class="red">VASOMANIX</span> CAN DO FOR YOU</h2>
-    <div class="d-flex white text-center pt-30">
-      <div class="d-flex flex-direction-column pl-30 pr-30">
-        <img class="item" src="/products/images/item_1.png">
-        <p>Increase penis length and thickness</p>
-      </div>
-      <div class="d-flex flex-direction-column pl-30 pr-30">
-        <img class="item" src="/products/images/item_2.png">
-        <p>Maximize sex drive and energy</p>
-      </div>
-      <div class="d-flex flex-direction-column pl-30 pr-30">
-        <img class="item" src="/products/images/item_3.png">
-        <p>Boost sexual performance and stamina</p>
-      </div>
-      <div class="d-flex flex-direction-column pl-30 pr-30">
-        <img class="item" src="/products/images/item_4.png">
-        <p>Boost semen volume</p>
-      </div>
-      <div class="d-flex flex-direction-column pl-30 pr-30">
-        <img class="item last" src="/products/images/item_5.png">
-        <p>Extend sexual pleasure and satisfaction</p>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="wrapper-8 pt-60 pb-15">
-  <div class="container text-center">
-    <h2 class="mb-0">VASOMANIX IS THE ONLY SCIENTIFICALLY PROVEN <br class="desktop-only">FORMULA TO DELIVER ALL OF THESE BENEFITS</h2>
-    <h3 class="grey RiftBold">DON’T SETTLE FOR ANYTHING LESS <br class="desktop-only">CHOOSE VASOMANIX</h3>
-    <h3 class="RiftDemi">SEE HOW VASOMANIX DOMINATES THE COMPETITION</h3>
-    <img class="table mt-30" src="/products/images/table.png">
-  </div>
-</div>
-<div class="wrapper-9">
-  <img class="bg_wrapper9" src="/products/images/bg_wrapper9.jpg">
-  <div class="container d-flex">
-    <div class="col-7 pt-30 pb-30">
-      <h2 class="mb-0 text-left">BREAKTHROUGH <br class="desktop-only"><span class="red">PENIS ENLARGEMENT PILL</span></h2>
-      <p class="semibold grey">CERTIFIED BY WebMDMen as the ONLY PROVEN <br class="desktop-only">PENIS ENLARGEMENT FORMULA</p>
-      <p class="pt-30">Researchers from the highly respected WebMDMen publication certify VasoManix as the world’s FIRST and ONLY scientifically proven penis enlargement formula.</p>
-      <p class="pt-30">“After a careful review of VasoManix’s ingredients, technology, formula, and dosage, our team concluded that VasoManix has the strongest, most potent formula ever created to help increase penis length and girth. We worked closely with the scientists of VasoManix to understand the mechanics and science behind the formula, and we are incredibly surprised at the level of perfection that VasoManix presents to the struggling industry. For years, we’ve debunked hundreds of substandard male enhancement pills, and VasoManix definitively proves that penis enlargement is 100% possible and attainable for every man. Our research shows that men can gain 30-40% increased erect penis length and girth, and amazing progress is exhibited with every dose. Clearly, VasoManix is the only gold standard in penis enlargement supplements”</p>
-      <p class="pt-30">— Dr. James Jacobs, Lead Research Fellow, WebMDMen</p>
-    </div>
-    <div class="col-5 possition_relative">
-      <img class="actor_3" src="/products/images/actor_3.png">
-    </div>
-  </div>
-</div>
-<div class="wrapper-10 section-space white">
-  <img class="bg_wrapper10" src="/products/images/bg_wrapper10.png">
-  <h2>THE TRUE ADVANTAGE OF <br class="desktop-only">VASOMANIX</h2>
-  <div class="container">
-    <div class="medal_pane d-flex align-center pt-30 pb-30">
-      <div class="image_part d-flex">
-        <img class="medal" src="/products/images/medal_1.png">
-      </div>
-      <div class="description_part text-left">
-        <p class="title mb-0 bold">SCIENTIFICALLY PROVEN</p>
-        <p>VasoManix contains scientifically proven ingredients and standardized extracts to enhance testosterone levels and blood flow to produce an unparalleled increase in your sex drive, stamina, energy, sexual performance, and erection length and thickness.</p>
-      </div>
-    </div>
-    <div class="medal_pane d-flex align-center mt-30 pb-30">
-      <div class="image_part d-flex">
-        <img class="medal" src="/products/images/medal_2.png">
-      </div>
-      <div class="description_part text-left">
-        <p class="title mb-0 bold">EXCLUSIVE INGREDIENTS</p>
-        <p>VasoManix features the most potent ingredient variants to ensure the strength and effectiveness of the formula. Each ingredient is carefully selected, extracted, and purified for maximum potency, absorption, and bioavailability.</p>
-      </div>
-    </div>
-    <div class="medal_pane d-flex align-center mt-30 pb-30">
-      <div class="image_part d-flex">
-        <img class="medal" src="/products/images/medal_3.png">
-      </div>
-      <div class="description_part text-left">
-        <p class="title mb-0 bold">STANDARDIZED EXTRACTS</p>
-        <p>VasoManix is powered by purified extracts that contain a consistent amount of active compounds for accurate dosage measurements. These extracts undergo a highly specialized purification process exclusively used by VasoManix.</p>
-      </div>
-    </div>
-    <div class="medal_pane d-flex align-center mt-30 pb-30">
-      <div class="image_part d-flex">
-        <img class="medal" src="/products/images/medal_4.png">
-      </div>
-      <div class="description_part text-left">
-        <p class="title mb-0 bold">100% MONEY-BACK GUARANTEE</p>
-        <p>We firmly believe that you shouldn’t pay for products that do not work as intended. We spent years developing and perfecting VasoManix’s formula, and that’s how we know that it works 100%. We are extremely confident that you’ll be shocked and amazed by the results you get with VasoManix that we’ll give 100% of your money back if you are not satisfied with your results.</p>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="wrapper-11">
-  <div class="testimonial_pane bg-lightgrey pt-60 pb-60">
-    <div class="container d-flex align-center">
-      <div class="testimonial_pane white">
-        <img class="testimonial_actor" src="/products/images/actor_4.png">
-        <p>“I love my boyfriend, but we reached a point where I don’t get satisfied with sex anymore. I kept thinking about guys who were bigger than him and it makes me feel guilty over nothing. I went online and bought him VasoManix – and WOW. He grew so much that I forgot about everything else! He’s now the biggest guy I’ve ever been with!”</p>
-        <h3>Anne</h3>
-        <img class="stars" src="/products/images/stars.png">
-      </div>
-    </div>
-  </div>
-</div>
-
-
-
-
-
-
-
-<div class="wrapper-14 section-space bg-lightgrey">
-  <div class="testimonial_pane section-space">
-    <div class="container d-flex align-center">
-      <div class="image_part d-flex">
-        <img src="/products/images/source_8.png">
-      </div>
-      <div class="description_part text-left">
-        <p class="title-5 mb-0 bold">BREAKTHROUGH<br class="mobile-only"> FORMULATION</p>
-        <p class="description mt-0">Superior Male is the only supplement that features the cutting-edge Accelerated Expansion Technology, a landmark technology that allows test boosters and vasodilators to synergize seamlessly to achieve a dramatic increase in erection length, girth, and hardness. Superior Male developed the Accelerated Expansion Formula for years, and now men get the final product – a premium-quality supplement that can guarantee the biggest and hardest erections of your life.</p>
-      </div>
-    </div>
-  </div>
-  <div class="testimonial_pane pb-60">
-    <div class="container d-flex align-center">
-      <div class="image_part d-flex">
-        <img src="/products/images/source_9.png">
-      </div>
-      <div class="description_part text-left">
-        <p class="title-5 mb-0 bold">INTENSE LIBIDO AND<br class="mobile-only"> ENDURANCE</p>
-        <p class="description mt-0">Superior Male’s core complex features the most advanced t-level-boosting formula that instantly fires up your sex drive, giving you an insane boost to your sexual performance. Superior Male is the only supplement that is fully equipped with the highest potency ingredients that allow you to achieve FAST and EFFECTIVE results starting from the first dose. </p>
-      </div>
-    </div>
-  </div>
-  <div class="testimonial_pane pb-60">
-    <div class="container d-flex align-center">
-      <div class="image_part d-flex">
-        <img src="/products/images/source_10.png">
-      </div>
-      <div class="description_part text-left">
-        <p class="title-5 mb-0 bold">100% MONEY-BACK<br class="mobile-only"> GUARANTEE</p>
-        <p class="description mt-0">We set the highest standards to ensure that every customer gains the maximum boost to their libido, energy, stamina, sexual performance, and erection size. That’s why we are 100% confident that you’ll be completely satisfied with the results that you will get. All purchases are covered by our industry-leading 100% money-back guarantee. On the off chance that you are not completely satisfied with your results, you can simply call our hotline any day of the week, and we’ll refund 100% of the purchase price. That’s a promise!</p>
       </div>
     </div>
   </div>
