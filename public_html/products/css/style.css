@@ -427,6 +427,9 @@ h3 {
   padding: 15px;
   cursor: pointer;
 }
+.nav-wrapper a:hover {
+  opacity: 1;
+}
 .gradiant {
   width: 80%;
 }
@@ -439,6 +442,14 @@ h3 {
   bottom: 0;
   left: -15%;
   z-index: -1;
+}
+.actor_2 {
+  position: absolute;
+  z-index: 0;
+  width: fit-content;
+  height: 100%;
+  right: 0;
+  z-index: 0;
 }
 .information_pane {
   background-color: #170000d4;
@@ -1297,6 +1308,15 @@ body.thankyou .main-section h2 {
     background-color: #fff;
   }
   .actor_1 {
+    width: 100%;
+    top: 5px;
+    left: 0;
+  }
+  .wrapper-3 .container {
+    flex-direction: column-reverse;
+  }
+  .actor_2 {
+    position: relative;
     width: 100%;
     top: 5px;
     left: 0;

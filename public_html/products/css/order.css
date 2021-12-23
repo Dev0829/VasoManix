@@ -66,6 +66,26 @@
   font-family: "Montserrat";
   src: url("./fonts/Montserrat-Regular.ttf");
 }
+@font-face {
+  font-family: "PoppinsLight";
+  src: url("./fonts/Poppins-Light.ttf");
+}
+@font-face {
+  font-family: "PoppinsRegular";
+  src: url("./fonts/Poppins-Regular.ttf");
+}
+@font-face {
+  font-family: "PoppinsBold";
+  src: url("./fonts/Poppins-Bold.ttf");
+}
+@font-face {
+  font-family: "PoppinsSemiBold";
+  src: url("./fonts/Poppins-SemiBold.ttf");
+}
+@font-face {
+  font-family: "PoppinsMedium";
+  src: url("./fonts/Poppins-Medium.ttf");
+}
 * {
   box-sizing: border-box;
 }
@@ -185,25 +205,25 @@
   font-family: "MontserratBold";
 }
 .semibold {
-  font-family: "PoppinsSemiBold"; 
+  font-family: "MontserratSemiBold"; 
 }
 .light {
-  font-family: "PoppinsLight";
+  font-family: "MontserratLight";
 }
 .italic {
   font-family: "MontserratItalic";
 }
 .bolditalic {
-  font-family: "PoppinsBoldItalic";
+  font-family: "MontserratBoldItalic";
 }
 .medium {
-  font-family: "PoppinsMedium";
+  font-family: "MontserratMedium";
 }
 .mediumitalic {
-  font-family: "PoppinsMediumItalic";
+  font-family: "MontserratMediumItalic";
 }
 .SemiBoldItalic {
-  font-family: "PoppinsSemiBoldItalic"; 
+  font-family: "MontserratSemiBoldItalic"; 
 }
 .extrabold {
   font-family: "ExtraBold";
@@ -254,6 +274,7 @@
 }
 .description {
   font-size: 20px;
+  line-height: 1.5;
 }
 .d-flex {
   display: flex;
@@ -280,6 +301,22 @@
   width: fit-content;
   height: fit-content;
 }
+.col-5 {
+  width: 100% !important;
+}
+.col-6 {
+  width: 100% !important; 
+}
+.col-7 {
+  width: 100% !important;
+}
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
 body {
   background-color: #fff;
 }
@@ -293,7 +330,7 @@ h1 {
 h2 {
   text-align: center;
   font-size: 48px;
-  font-family: "PoppinsBold";
+  font-family: "MontserratBold";
   line-height: 1.2;
   margin: 0;
 }
@@ -301,8 +338,12 @@ h3 {
   font-size: 25px;
   font-weight: 400;
 }
+h4 {
+  font-size: 60px;
+}
 label {
   text-transform: capitalize;
+  font-family: "PoppinsRegular";
 }
 .order_top,
 .wrapper-1,
@@ -333,13 +374,8 @@ label {
   justify-content: space-between;
   background-color: #191919;
 }
-.nav-wrapper {
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
-}
-.nav-wrapper img {
-  height: fit-content;
+.hidden {
+  display: none !important;
 }
 .header-bottom {
   background-color: #000000;
@@ -364,11 +400,15 @@ label {
 .header_title {
   font-size: 24px;
   text-align: center;
+  font-family: "MontserratMedium";
 }
 .header_main {
   width: 100%;
   height: fit-content;
   margin: 0 auto;
+}
+.wrapper-1 .container {
+  min-height: unset;
 }
 .verified_pane {
   background-color: #880b18;
@@ -395,7 +435,7 @@ label {
   padding: 10px 15px;
 }
 .verified_text {
-  min-height: 75px;
+  min-height: 96px;
 }
 .verified_pane .bg-black {
   border-radius: 0 0 5px 5px;
@@ -412,6 +452,7 @@ label {
 }
 .grid_des {
   font-size: 20px;
+  font-family: "MontserratMedium";
   margin: 15px 0;
 }
 .bottle {
@@ -421,15 +462,22 @@ label {
   right: 0;
   z-index: 0;
 }
+.bottle_medal {
+  width: fit-content;
+}
+.piece {
+  width: fit-content;
+}
 .title-2 {
   font-size: 50px;
+  font-family: "PoppinsBold";
   line-height: 1;
 }
 .title-2:after {
   display: none;
 }
 .title-3 {
-  font-size: 40px;
+  font-size: 30px;
 }
 .cost_pane {
   display: flex;
@@ -445,6 +493,7 @@ label {
 }
 .cost_pane h3 {
   min-width: 240px;
+  font-family: "PoppinsMedium";
 }
 .cost_pane h3.grey {
   color: #8e8e8e;
@@ -452,21 +501,35 @@ label {
 }
 .guarantee_money {
   width: fit-content;
-  margin-right: 30px;
+  padding: 0 30px;
 }
 .wrapper-3 .container,
-.wrapper-5 .container,
 .wrapper-6 .container,
 .terms_pane,
-.disclaimer_pane {
+.disclaimer_pane,
+.w-limit {
   max-width: 950px;
 }
 .chart {
   margin: 30px;
   width: 40%;
 }
+.document_pane {
+  background-color: #252525;
+}
+.w-limit {
+  margin: 15px auto;
+}
 .flag {
   width: 550px;
+  position: relative;
+}
+.gradient:after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  width: 950px;
+  border-bottom: 1px solid #777777;
 }
 .form-control {
   background-color: #ffffff;
@@ -512,6 +575,8 @@ label {
 .shipping-form .header_title {
   color: #fff;
   width: 70%;
+  font-size: 30px;
+  font-family: "PoppinsMedium";
   background-color: #980f10;
   text-align: left;
   padding: 20px;
@@ -530,6 +595,7 @@ label {
   font-size: 30px;
   color: #fff;
   border: none;
+  font-family: "PoppinsSemiBold";
   background-color: #00a651;
   cursor: pointer;
   line-height: 1.2;
@@ -539,6 +605,7 @@ label {
 }
 .disclaimer_text {
    font-size: 12px;
+   font-family: "PoppinsLight";
 }
 .custom-control-label {
   text-transform: capitalize;
@@ -808,9 +875,9 @@ label span.red {
     max-width: 960px;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 1300px) {
   .container {
-    max-width: 1140px;
+    max-width: 1240px;
   }
 }
 @media (max-width: 767px) {
@@ -843,75 +910,100 @@ label span.red {
     height: 27px;
   }
   h1 {
-    font-size: 30px;
+    font-size: 54px;
   }
   h2 {
-    font-size: 12px;
+    font-size: 26px;
+  }
+  .order_top h2 {
+    margin-bottom: 30px;
+  }
+  .order_top h2:after {
+    height: 5px;
   }
   h3 {
     font-size: 20px;
   }
+  h4 {
+    font-size: 29px;
+  }
   p {
-    font-size: 12px;
+    font-size: 15px;
   }
   .description {
     font-size: 12px;
-  }
-  .nav-wrapper .d-flex {
-    width: 50%;
   }
   .cta_btn {
     width: 60%;
     font-size: 10px;
     padding: 5px 20px;
   }
+  .order_top .container {
+    flex-direction: column;
+  }
   .logo {
     width: 80%;
     margin-top: 15px;
   }
   .header_title {
-    font-size: 15px;
+    font-size: 16px;
   }
   .header_main {
     width: 100%;
   }
   .title {
-    font-size: 20px;
+    font-size: 34px;
   }
-  .nav-wrapper {
-    flex-direction: row;
+  .wrapper-1 h2 {
+    font-size: 20px;
   }
   .verified_pane {
     width: calc(100% - 20px);
     font-size: 10px;
   }
-  .verified_user img {
-    width: 20px;
+  .verified_text {
+    min-height: unset;
   }
-  .gradiant img {
-    height: 2px;
+  .research {
+    margin-bottom: -1px;
   }
-  .intro_section {
+  .intro_section,
+  .intro-section .container {
     flex-direction: column;
   }
   .bottle {
-    width: 80%;
+    width: 100%;
     z-index: 1;
     top: 0;
+  }
+  .bottle_medal {
+    width: 100%;
   }
   .check {
     width: 25px;
     margin-right: 5px;
   }
-  .grid_des,
-  .title-3 {
+  .wrapper-2 {
+    background: unset;
+  }
+  .grid_des {
     font-size: 12px;
+  }
+  .title-3 {
+    font-size: 14px;
   }
   .title-2 {
     font-size: 20px;
   }
+  .guarantee_mobile {
+    display: flex;
+  }
   .guarantee_money {
-    width: 25%;
+    width: 50%;
+    height: fit-content;
+  }
+  .wrapper-3 p {
+    text-align: left;
   }
   .cost_pane img.first {
     width: calc(50% + 3px);
@@ -940,8 +1032,24 @@ label span.red {
     width: 100%;
     margin: 15px;
   }
+  .piece_pane {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .piece {
+    width: 150px;
+    padding-right: 0;
+    padding-bottom: 15px;
+  }
   .flag {
-    width: 100%;
+    width: 80%;
+  }
+  .wrapper-6 {
+    margin-top: unset;
+  }
+  .gradient:after {
+    width: 80%;
   }
   .shipping-form .header_title {
     font-size: 12px;
@@ -1024,11 +1132,5 @@ label span.red {
   }
   .pb-30 {
     padding-bottom: 15px;
-  }
-  .section-space {
-    padding: 15px 0;
-  }
-  h1 {
-    font-size: 26px;
   }
 }

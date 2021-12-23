@@ -15,13 +15,14 @@ use app\helpers\UtilityHelper;
   </div>
 </div>
 <div class="d-flex">
-  <img class="header_main" src="/products/images/order/header_main.png">
+  <img class="header_main desktop-only" src="/products/images/order/header_main.png">
+  <img class="header_main mobile-only" src="/products/images/order/header_main_mobile.png">
 </div>
 <div class="wrapper-1">
   <div class="container text-center">
     <p class="title bold">REAL CUSTOMERS SHARE THEIR LIFE-CHANGING EXPERIENCE WITH VASOMANIX</p>
     <h2 class="mt-30 bold">You could have your own amazing transformation <br class="desktop-only"> story with vasomanix!</h2>
-    <div class="verified-section pt-30">
+    <div class="verified-section pt-30 pb-30">
       <div class="verified_pane pt-15">
         <div class="d-flex pt-30 pl-15 pr-15 pb-15 align-center">
           <p class="verified_text white italic text-left"> “Having a bigger penis really changed my life. I have more sex drive, and I’m way more confident than I was before!”</p>
@@ -40,13 +41,45 @@ use app\helpers\UtilityHelper;
       </div>
       <div class="verified_pane pt-15">
         <div class="d-flex pt-30 pl-15 pr-15 pb-15 align-center">
-          <p class="verified_text white italic text-left"> “Having a bigger penis really changed my life. I have more sex drive, and I’m way more confident than I was before!”</p>
+          <p class="verified_text white italic text-left"> “VasoManix changed the way I think about supplements. It’s rare to find one that really works as advertised!”</p>
         </div>
         <div class="d-flex justify-content-between align-center bg-black">
           <div class="verified_user d-flex align-center white">
             <img class="mr-15" src="/products/images/order/verified_user.png">
             <div class="flex flex-direction-column text-left">
-              <p class="MontserratBold mt-0 mb-0">Pat W. 28 years old.</p>
+              <p class="MontserratBold mt-0 mb-0">Will N. 33 years old.</p>
+              <p class="italic mt-0 mb-0">+1.9 Inches</p>
+            </div>
+          </div>
+          <div class="verified d-flex align-center pl-15 pr-15">
+          </div>
+        </div>
+      </div>
+      <div class="verified_pane pt-15">
+        <div class="d-flex pt-30 pl-15 pr-15 pb-15 align-center">
+          <p class="verified_text white italic text-left">“Getting VasoManix was the best decision I’ve ever made! These pills are the best!”</p>
+        </div>
+        <div class="d-flex justify-content-between align-center bg-black">
+          <div class="verified_user d-flex align-center white">
+            <img class="mr-15" src="/products/images/order/verified_user.png">
+            <div class="flex flex-direction-column text-left">
+              <p class="MontserratBold mt-0 mb-0">Kevin M. 34 years old.</p>
+              <p class="italic mt-0 mb-0">+1.9 Inches</p>
+            </div>
+          </div>
+          <div class="verified d-flex align-center pl-15 pr-15">
+          </div>
+        </div>
+      </div>
+      <div class="verified_pane pt-15">
+        <div class="d-flex pt-30 pl-15 pr-15 pb-15 align-center">
+          <p class="verified_text white italic text-left">“VasoManix worked way better than I thought it would. My wife can’t figure out how to deal with all this energy and size!”</p>
+        </div>
+        <div class="d-flex justify-content-between align-center bg-black">
+          <div class="verified_user d-flex align-center white">
+            <img class="mr-15" src="/products/images/order/verified_user.png">
+            <div class="flex flex-direction-column text-left">
+              <p class="MontserratBold mt-0 mb-0">Ben N. 38 years old.</p>
               <p class="italic mt-0 mb-0">+2.4 Inches</p>
             </div>
           </div>
@@ -54,68 +87,32 @@ use app\helpers\UtilityHelper;
           </div>
         </div>
       </div>
-
       <div class="verified_pane pt-15">
         <div class="d-flex pt-30 pl-15 pr-15 pb-15 align-center">
-          <p class="verified_text white italic text-left"> “Having a bigger penis really changed my life. I have more sex drive, and I’m way more confident than I was before!”</p>
+          <p class="verified_text white italic text-left">“My size was always my biggest insecurity. Now I’m all set. VasoManix is the real deal!”</p>
         </div>
         <div class="d-flex justify-content-between align-center bg-black">
           <div class="verified_user d-flex align-center white">
             <img class="mr-15" src="/products/images/order/verified_user.png">
             <div class="flex flex-direction-column text-left">
-              <p class="MontserratBold mt-0 mb-0">Pat W. 28 years old.</p>
-              <p class="italic mt-0 mb-0">+2.4 Inches</p>
+              <p class="MontserratBold mt-0 mb-0">Gary C. 27 years old.</p>
+              <p class="italic mt-0 mb-0">+1.9 Inches</p>
             </div>
           </div>
           <div class="verified d-flex align-center pl-15 pr-15">
           </div>
         </div>
       </div>
-
       <div class="verified_pane pt-15">
         <div class="d-flex pt-30 pl-15 pr-15 pb-15 align-center">
-          <p class="verified_text white italic text-left"> “Having a bigger penis really changed my life. I have more sex drive, and I’m way more confident than I was before!”</p>
+          <p class="verified_text white italic text-left">“I’m getting bigger and bigger erections every day, and I absolutely love it!” </p>
         </div>
         <div class="d-flex justify-content-between align-center bg-black">
           <div class="verified_user d-flex align-center white">
             <img class="mr-15" src="/products/images/order/verified_user.png">
             <div class="flex flex-direction-column text-left">
-              <p class="MontserratBold mt-0 mb-0">Pat W. 28 years old.</p>
-              <p class="italic mt-0 mb-0">+2.4 Inches</p>
-            </div>
-          </div>
-          <div class="verified d-flex align-center pl-15 pr-15">
-          </div>
-        </div>
-      </div>
-
-      <div class="verified_pane pt-15">
-        <div class="d-flex pt-30 pl-15 pr-15 pb-15 align-center">
-          <p class="verified_text white italic text-left"> “Having a bigger penis really changed my life. I have more sex drive, and I’m way more confident than I was before!”</p>
-        </div>
-        <div class="d-flex justify-content-between align-center bg-black">
-          <div class="verified_user d-flex align-center white">
-            <img class="mr-15" src="/products/images/order/verified_user.png">
-            <div class="flex flex-direction-column text-left">
-              <p class="MontserratBold mt-0 mb-0">Pat W. 28 years old.</p>
-              <p class="italic mt-0 mb-0">+2.4 Inches</p>
-            </div>
-          </div>
-          <div class="verified d-flex align-center pl-15 pr-15">
-          </div>
-        </div>
-      </div>
-
-      <div class="verified_pane pt-15">
-        <div class="d-flex pt-30 pl-15 pr-15 pb-15 align-center">
-          <p class="verified_text white italic text-left"> “Having a bigger penis really changed my life. I have more sex drive, and I’m way more confident than I was before!”</p>
-        </div>
-        <div class="d-flex justify-content-between align-center bg-black">
-          <div class="verified_user d-flex align-center white">
-            <img class="mr-15" src="/products/images/order/verified_user.png">
-            <div class="flex flex-direction-column text-left">
-              <p class="MontserratBold mt-0 mb-0">Pat W. 28 years old.</p>
-              <p class="italic mt-0 mb-0">+2.4 Inches</p>
+              <p class="MontserratBold mt-0 mb-0">Kevin G. 29 years old.</p>
+              <p class="italic mt-0 mb-0">+1.9 Inches</p>
             </div>
           </div>
           <div class="verified d-flex align-center pl-15 pr-15">
@@ -124,105 +121,126 @@ use app\helpers\UtilityHelper;
       </div>
       <div class="clearfix"></div>
     </div>
-    <div class="gradiant text-center pt-60 pb-60">
-      <img src="/products/images/order/gradiant.png">
-    </div>
-    <div class="intro-section">
-      <p class="title bold">Superior Male is the #1 Rated<br class="desktop-only"> Male Enhancement Formula<br> in the World</p>
+  </div>
+  <div class="intro-section pt-60 bg-lightgrey text-center">
+    <h4 class="bold">VasoManix is the #1 Male Enhancement Formula<br class="desktop-only"> trusted by Porn Stars, Experts, Athletes, <br class="desktop-only">and Doctors</h4>
+    <div class="container">
       <div class="intro_section d-flex justify-content-center align-center section-space">
-        <img class="bottle" src="/products/images/order/bottle.png">
-        <div class="grid-wrapper">
+        <div class="col-6">
+          <img class="bottle_medal" src="/products/images/order/bottle_medal.png">
+        </div>
+        <div class="col-6 grid-wrapper">
           <div class="grid_pane">
             <img class="check" src="/products/images/order/check.png">
-            <p class="grid_des">Unparalleled Penis Growth Formula</p>
+            <p class="grid_des medium">Exceptional Penis Growth Formula</p>
           </div>
           <div class="grid_pane">
             <img class="check" src="/products/images/order/check.png">
-            <p class="grid_des">Intense Libido and Sex Drive</p>
+            <p class="grid_des medium">Ferocious Sex Drive and Energy</p>
           </div>
           <div class="grid_pane">
             <img class="check" src="/products/images/order/check.png">
-            <p class="grid_des">Endless Sexual Endurance</p>
+            <p class="grid_des medium">Unlimited Sexual Stamina</p>
           </div>
           <div class="grid_pane">
             <img class="check" src="/products/images/order/check.png">
-            <p class="grid_des">Exclusive Ingredients and Premium Extracts</p>
+            <p class="grid_des medium">Premium Ingredients and Standardized Extracts</p>
           </div>
           <div class="grid_pane">
             <img class="check" src="/products/images/order/check.png">
-            <p class="grid_des">100% SATISFACTION GUARANTEED</p>
+            <p class="grid_des medium">100% SATISFACTION GUARANTEED</p>
           </div>
         </div>
       </div>
-      <p class="title-2 semibold mb-30">What could you buy<br class="mobile-only"> with $2 a day?</p>
     </div>
   </div>
 </div>
-<div class="wrapper-2 section-space">
+<div class="wrapper-2">
   <img class="bg_wrapper2" src="/products/images/order/bg_wrapper2.png">
-  <div class="container">
-    <p class="title-3 bold text-center white mt-0 mb-30">COST PER DAY</p>
+  <div class="container pt-60 pb-60">
+    <p class="title-3 bold text-center white mt-0 mb-30">What could you buy with $2 a day?</p>
     <div class="cost_pane">
-      <h3 class="grey medium mr-15 mt-15 mb-15 left">FAST FOOD</h3>
+      <h3 class="grey mr-15 mt-15 mb-15 left">FAST FOOD</h3>
       <img class="first" src="/products/images/order/cost_1.png">
-      <h3 class="white medium ml-5 mt-15 mb-15">$10.00</h3>
+      <h3 class="white ml-5 mt-15 mb-15">$10.00</h3>
     </div>
     <div class="cost_pane">
-      <h3 class="grey medium mr-15 mt-15 mb-15 left">LARGE CAFFE LATTE</h3>
+      <h3 class="grey mr-15 mt-15 mb-15 left">LARGE CAFFE LATTE</h3>
       <img src="/products/images/order/cost_2.png">
-      <h3 class="white medium ml-15 mt-15 mb-15">$4.95</h3>
+      <h3 class="white ml-15 mt-15 mb-15">$4.95</h3>
     </div>
     <div class="cost_pane">
-      <h3 class="white medium mr-15 mt-15 mb-15 text-right left">SUPERIOR MALE</h3>
+      <h3 class="white mr-15 mt-15 mb-15 text-right left">VASOMANIX</h3>
       <img src="/products/images/order/cost_3.png">
-      <h3 class="white medium ml-15 mt-15 mb-15">$2.66</h3>
+      <h3 class="white ml-15 mt-15 mb-15">$2.66</h3>
     </div>
   </div>
+  <div class="d-flex">
+    <img class="research desktop-only" src="/products/images/order/research.png">
+    <img class="research mobile-only" src="/products/images/order/research_mobile.png">
+  </div>
 </div>
-<div class="wrapper-3 wrapper-space">
+<div class="wrapper-3 section-space">
   <div class="intro-section">
-    <p class="title bold text-center">REAL MEN WANTS<br> REAL RESULTS</p>
-    <p class="container text-center pt-30 pb-30">We believe that you shouldn’t pay for anything that does not work. That’s why we’re covering every purchase of Superior Male with our industry - leading 100% money - back guarantee. If you’re not completely satisfied with your results, just call us and we’ll refund 100% of the purchase price!</p>
-    <div class="d-flex justify-content-center align-center">
-      <img class="guarantee_money" src="/products/images/order/guarantee_money.png">
-      <div class="grid-wrapper">
-        <div class="grid_pane">
-          <img class="check" src="/products/images/order/check.png">
-          <p class="grid_des">RISK - FREE RESULTS</p>
+    <div class="container d-flex justify-content-center align-center">
+      <div class="grid-wrapper col-7">
+        <div class="guarantee_mobile">
+          <div>
+            <h4 class="bold">TRUST THE SCIENCE</h4>
+            <p class="description pt-15 pb-15">We worked for years perfecting VasoManix’s formula, and that’s how we are absolutely confident that you’ll love your 
+            results. If you’re not absolutely satisfied with your results, simply contact us and we’ll refund 100% of your money back, no questions asked!</p> 
+          </div>
+          <img class="guarantee_money mobile-only" src="/products/images/order/guarantee_money.png">
         </div>
         <div class="grid_pane">
-          <img class="check" src="/products/images/order/check.png">
-          <p class="grid_des">PROFESSIONAL CUSTOMER SUPPORT</p>
+          <img class="check" src="/products/images/order/check_green.png">
+          <p class="grid_des">NO RISK RESULTS</p>
         </div>
         <div class="grid_pane">
-          <img class="check" src="/products/images/order/check.png">
+          <img class="check" src="/products/images/order/check_green.png">
+          <p class="grid_des">DEDICATED CUSTOMER SERVICE HOTLINE</p>
+        </div>
+        <div class="grid_pane">
+          <img class="check" src="/products/images/order/check_green.png">
           <p class="grid_des">100% SATISFACTION GUARANTEED</p>
         </div>
       </div>
+      <div class="col-5">
+        <img class="guarantee_money desktop-only" src="/products/images/order/guarantee_money.png">
+      </div>
     </div>
   </div>
 </div>
-<div class="wrapper-4 bg-white wrapper-space">
-  <p class="title-2 bold text-center mt-0 mb-0">THE ONLY WAY TO <br>GAIN SIZE AND PERFORMANCE</p>
-  <h3 class="header_title bold grey mt-0">Experience the TRUE POTENTIAL of Superior Male</h3>
+<div class="wrapper-4 bg-grey section-space">
+  <h4 class="bold text-center mt-0 mb-0">ONLY REAL RESULTS MATTER</h4>
+  <p class="description text-center mt-0">Experience the RAW POWER of VasoManix for yourself!</p>
   <div class="container d-flex justify-content-center align-center">
     <img class="chart" src="/products/images/order/chart-1.png">
     <img class="chart" src="/products/images/order/chart-2.png">
   </div>
 </div>
-<div class="wrapper-5 pt-120 pb-60">
-  <p class="title-2 bold text-center mt-0 mb-0">TAKE ORDER SUPERIOR TO THE<br class="mobile-only"> HIGHEST LEVEL</p>
-  <h3 class="header_title bold grey mt-0">See how much your life can change with Superior Male!</h3>
-  <div class="container">
-    <p class="description bold pt-30 mb-0">PHASE 1: SUPERIOR SEX DRIVE</p>
-    <p class="mt-0">Superior Male contains fast-acting ingredients that allow you to enjoy a surge in libido and energy that powers your sexual performance. Experience great pleasure and satisfaction, and give your sex partner the most mind-blowing orgasms that they will never forget!</p>
-    <p class="description bold pt-30 mb-0">PHASE 2: INTENSE ERECTION BOOST</p>
-    <p class="mt-0">Superior Male contains vasodilators that work directly with sex drive boosters that will give you the strongest and hardest erections you’ve ever had in your life. Never worry about having soft or weak erections again!</p>
-    <p class="description bold pt-30 mb-0">PHASE 3: PEAK ERECTION SIZE ENHANCEMENT</p>
-    <p class="mt-0">As Superior Male boosts your erection quality, your penile tissue becomes more adaptable, and this allows it to extend beyond your peak erection size. Gain a visible and noticeable erection that she will definitely FEEL!</p>
-    <p class="description bold pt-30 mb-0">PHASE 4: PERMANENT SIZE GAIN</p>
-    <p class="mt-0">Superior Male allows you to continuously extend your erect penis length and girth, and this allows the body to promote penile tissue growth. As you continue taking Superior Male daily, you will experience a steady growth of your erect and flaccid penis length and girth!</p>
-    <div class="d-flex justify-content-center">
+<div class="wrapper-5">
+  <div class="document_pane white text-center section-space">
+    <div class="container">
+      <h4 class="bold mb-30">THE BEST JUST GOT EVEN BETTER</h4>
+      <p class="description">Through years of research and development, we perfected our VasoManix formula by extracting every bit of sex drive and size-boosting potential out of every ingredient. Now is the time to take your results to the highest level possible. We created VASOPRO and VasoSurge as performance-boosting agents for VasoManix to maximize your results! Get faster, more impactful results when you take VasoManix together with VasoPro and VasoSurge! </p>
+      <p class="description pt-15">VASOPRO is a custom performance-boosting supplement designed to work seamlessly with VasoManix and elevate the overall impact of the formula. Each ingredient is carefully selected to synergize with VasoManix’s ingredients, giving you the biggest and hardest erections you’ve ever had in your life!<br> VasoSurge is an ultra-premium testosterone-boosting blend designed to maximize the bioavailability and absorption of the entire VasoManix stack. Taking VasoManix with VasoSurge and VasoPro allows you to accelerate your results and experience the fastest and easiest way to get even bigger and harder erections</p>
+      <div class="piece_pane d-flex pt-60 text-left">
+        <img class="piece pr-30" src="/products/images/order/piece_1.png">  
+        <p class="description"><span class="semibold">VASOPRO</span> is a custom performance-boosting supplement designed to work seamlessly with VasoManix and elevate the overall impact of the formula. Each ingredient is carefully selected to synergize with VasoManix’s ingredients, giving you the biggest and hardest erections you’ve ever had in your life! </p>
+      </div>
+      <div class="piece_pane d-flex pt-60 text-left">
+        <img class="piece pr-30" src="/products/images/order/piece_2.png">  
+        <p class="description"><span class="semibold">VASOSURGE</span> is an ultra-premium testosterone-boosting blend designed to maximize the bioavailability and absorption of the entire VasoManix stack. Taking VasoManix with VasoSurge and VasoPro allows you to accelerate your results and experience the fastest and easiest way to get even bigger and harder erections.</p>
+      </div>
+    </div>  
+  </div>
+  <div class="container text-center section-space">
+    <h4 class="bold mb-30">HOW TO GET THE BEST RESULTS WITH VASOMANIX</h4>
+    <p class="description w-limit">Taking all three ultra-premium size-boosting supplements will result in an unprecedented increase in sex drive, energy, stamina, and SIZE. The potency and strength of this ultimate stack is only recommended for men who are truly motivated and committed to get the best results possible. Each of these supplements are excellent superior-class enlargement supplements on their own, but it’s when these pills are taken together that the true potential of these supplements begin to emerge.</p>
+    <p class="desktop-only MontserratBold w-limit">VasoPro and VasoSurge retails for $120 each. With VasoManix, you get all three supplements for only $xx.xx, giving you a whopping savings of $xxx a month!</p>
+    <div class="d-flex gradient flex-direction-column justify-content-center align-center pt-60">
+      <img class="bottle_medal" src="/products/images/order/bottle_3.png">
       <img class="flag" src="/products/images/order/flag.png">
     </div>
   </div>
@@ -234,9 +252,12 @@ use app\helpers\UtilityHelper;
   <input type="hidden" name="OrderForm[utm_content]" value="<?= isset($_GET['utm_content']) ? $_GET['utm_content'] : ''; ?>">
   <input type="hidden" name="order_page" value="order">
 
-  <div class="wrapper-6 bg-white pt-120 pb-60">
-    <p class="title-2 bold text-center mt-0 mb-0">SELECT AN OPTION BELOW</p>
-    <h3 class="header_title bold grey">Want the BEST results?<br> 80% of men choose the 6 Months Supply</h3>
+  <div class="wrapper-6 section-space">
+    <h4 class="bold text-center mt-0 mb-30">SELECT AN OPTION BELOW</h4>
+    <p class="description text-center MontserratBold mb-0">Want the BEST results?</p>
+    <p class="description text-center mt-0">82% of men choose Premium</p>
+    <p class="description text-center">Choose Premium and pay as low as $39.95/ per bottle!</p>
+    <p class="description text-center MontserratBold">SAVE BIG WHEN YOU BUY FROM THE <br class="desktop-only">ONLY OFFICIAL WEBSITE!</p>
     <div class="container d-flex flex-direction-column align-center">
       <div class="d-block mb-30">
         <div class="card">

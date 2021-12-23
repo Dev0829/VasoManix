@@ -39,12 +39,15 @@ $this->params['data'] = ['page' => 'home', 'title' => 'Home'];
     <p>Would you still be proud of having a 6-inch penis when 72% of men have the same penis size or even longer? Think about it. Are you the biggest guy she’s ever been with, or she’s just afraid of hurting your feelings? If your PENIS SIZE was never mentioned by your wife or girlfriend, then you should already know what that means. Chances are she’s been with someone BIGGER – and you should act FAST.</p>
   </div>
 </div>
-<div class="wrapper-3 bg-lightgrey section-space">
-  <div class="container">
-    <div class="col-6">
+<div class="wrapper-3 bg-lightgrey">
+  <div class="container d-flex">
+    <div class="col-6 section-space">
       <h2 class="text-left">It is <span class="red">SCIENTIFICALLY PROVEN</span> that Women prefer men<br class="desktop-only"> with bigger erections.</h2>
       <p>According to a recent study in the journal of National Academy of Sciences (NAS) and published in MedicalNewsToday, 98% of women said: “Size Does Matter.” It’s a well-known fact that men with bigger penises are preferred because bigger erections can stimulate nerve endings in the vagina that average penises can’t reach. The G-spot may be the most stimulated nerve cluster during sex, but the sweet spot is exposed when the vagina is penetrated by longer and thicker erections.</p>
       <p class="semibold">That’s why we created VASOMANIX.</p>
+    </div>
+    <div class="col-6">
+      <img class="actor_2" src="/products/images/actor_2.png">
     </div>
   </div>
 </div>
