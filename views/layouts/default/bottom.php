@@ -5,19 +5,19 @@
         <img src="/products/images/footer_logo.png">
       </a>
       <div class="nav-wrapper d-flex align-center">
-        <a href="/products/">HOME</a>
-        <a href="/products/">HOW IT WORKS</a>
-        <a href="/products/">FAQ</a>
-        <a href="/products/">GUARANTEE</a>
-        <a href="/products/">ORDER</a>
+        <a href="/products/home">HOME</a>
+        <a href="/products/howitworks">HOW IT WORKS</a>
+        <a href="/products/faq">FAQ</a>
+        <a href="/products/guarantee">GUARANTEE</a>
+        <a href="/products/order">ORDER</a>
       </div>
     </div>
     <div class="footer-middle pt-120">
       <div class="footer-nav d-flex align-center">
-        <a href="/products/">DMCA</a>
-        <a href="/products/">Terms & Conditions</a>
-        <a href="/products/">Privacy Policy</a>
-        <a href="/products/">Sitemap</a>
+        <a href="/products/dmca">DMCA</a>
+        <a href="/products/terms">Terms & Conditions</a>
+        <a href="/products/privacy">Privacy Policy</a>
+        <a href="/products/sitemap">Sitemap</a>
       </div>
     </div>
     <div class="footer-bottom d-flex justify-content-between">

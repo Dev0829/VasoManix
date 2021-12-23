@@ -1,44 +1,73 @@
 @font-face {
-  font-family: "PoppinsBold";
-  src: url("./fonts/Poppins-Bold.ttf");
+  font-family: "RiftDemiItalic";
+  src: url("./fonts/Fort Foundry - Rift Demi Italic.otf");
 }
 @font-face {
-  font-family: "PoppinsBoldItalic";
-  src: url("./fonts/Poppins-BoldItalic.ttf");
+  font-family: "RiftMediumItalic";
+  src: url("./fonts/Fort Foundry - Rift Medium Italic.otf");
 }
 @font-face {
-  font-family: "PoppinsSemiBold";
-  src: url("./fonts/Poppins-SemiBold.ttf");
+  font-family: "RiftDemi";
+  src: url("./fonts/Fort Foundry - Rift-Demi.otf");
 }
 @font-face {
-  font-family: "PoppinsSemiBoldItalic";
-  src: url("./fonts/Poppins-SemiBoldItalic.ttf");
+  font-family: "RiftMedium";
+  src: url("./fonts/Fort Foundry - Rift-Medium.otf");
 }
 @font-face {
-  font-family: "PoppinsMedium";
-  src: url("./fonts/Poppins-Medium.ttf");
+  font-family: "RiftBoldItalic";
+  src: url("./fonts/Rift Bold Italic.otf");
 }
 @font-face {
-  font-family: "PoppinsMediumItalic";
-  src: url("./fonts/Poppins-MediumItalic.ttf");
+  font-family: "RiftBold";
+  src: url("./fonts/Rift-Bold.otf");
 }
 @font-face {
-  font-family: "Poppins";
-  src: url("./fonts/Poppins-Regular.ttf");
+  font-family: "RiftRegular";
+  src: url("./fonts/Fort Foundry - Rift-Regular.otf");
 }
 @font-face {
-  font-family: "ExtraBold";
-  src: url("./fonts/Poppins-ExtraBold.ttf");
+  font-family: "MontserratBlack";
+  src: url("./fonts/Montserrat-Black.ttf");
 }
 @font-face {
-  font-family: "PoppinsLight";
-  src: url("./fonts/Poppins-Light.ttf");
+  font-family: "MontserratBold";
+  src: url("./fonts/Montserrat-Bold.ttf");
+}
+@font-face {
+  font-family: "MontserratBoldItalic";
+  src: url("./fonts/Montserrat-BoldItalic.ttf");
+}
+@font-face {
+  font-family: "MontserratSemiBold";
+  src: url("./fonts/Montserrat-SemiBold.ttf");
+}
+@font-face {
+  font-family: "MontserratItalic";
+  src: url("./fonts/Montserrat-Italic.ttf");
+}
+@font-face {
+  font-family: "MontserratLight";
+  src: url("./fonts/Montserrat-Light.ttf");
+}
+@font-face {
+  font-family: "MontserratLightItalic";
+  src: url("./fonts/Montserrat-LightItalic.ttf");
+}
+@font-face {
+  font-family: "MontserratMedium";
+  src: url("./fonts/Montserrat-Medium.ttf");
+}
+@font-face {
+  font-family: "MontserratMediumItalic";
+  src: url("./fonts/Montserrat-MediumItalic.ttf");
+}
+@font-face {
+  font-family: "Montserrat";
+  src: url("./fonts/Montserrat-Regular.ttf");
 }
 * {
   box-sizing: border-box;
-}
-header {
-  display: none;
 }
 .pl-15 {
   padding-left: 15px;
@@ -150,7 +179,10 @@ header {
   position: relative;
 }
 .bold {
-  font-family: "PoppinsBold";
+  font-family: "RiftBold";
+}
+.MontserratBold {
+  font-family: "MontserratBold";
 }
 .semibold {
   font-family: "PoppinsSemiBold"; 
@@ -159,7 +191,7 @@ header {
   font-family: "PoppinsLight";
 }
 .italic {
-  font-style: italic;
+  font-family: "MontserratItalic";
 }
 .bolditalic {
   font-family: "PoppinsBoldItalic";
@@ -216,7 +248,7 @@ header {
   background-color: #f5f5f5;
 }
 .title {
-  font-size: 60px;
+  font-size: 96px;
   line-height: 1;
   margin: 0;
 }
@@ -252,15 +284,15 @@ body {
   background-color: #fff;
 }
 h1 {
-  font-size: 75px;
+  font-size: 96px;
   margin: 0;
-  font-family: "ExtraBold";
+  font-family: "RiftBold";
   line-height: 1;
   color: #252525;
 }
 h2 {
   text-align: center;
-  font-size: 45px;
+  font-size: 48px;
   font-family: "PoppinsBold";
   line-height: 1.2;
   margin: 0;
@@ -272,6 +304,7 @@ h3 {
 label {
   text-transform: capitalize;
 }
+.order_top,
 .wrapper-1,
 .wrapper-2,
 .wrapper-4,
@@ -279,6 +312,7 @@ label {
 .wrapper-6 {
   position: relative;
 }
+.bg_order,
 .bg_wrapper2 {
   position: absolute;
   width: 100%;
@@ -318,42 +352,41 @@ label {
   background-color: #067309;
   cursor: pointer;
 }
+.order_top h2:after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 10px;
+  left: 0;
+  bottom: -15px;
+  background-color: #880b18;
+}
 .header_title {
-  font-size: 30px;
+  font-size: 24px;
   text-align: center;
 }
 .header_main {
-  width: 70%;
+  width: 100%;
   height: fit-content;
   margin: 0 auto;
 }
-.verified-section {
-  max-width: 970px;
-  margin: 0 auto;
-}
 .verified_pane {
-  background-color: #fff;
-  box-shadow: -15px 10px 15px #ddddddab;
+  background-color: #880b18;
+  border-radius: 5px;
   margin: 10px;
-  width: calc(50% - 20px);
+  width: calc(33.33% - 20px);
   float: left;
 }
 .verified {
   width: unset;
   justify-content: flex-end;
 }
-.badge_img,
 .verified_user img {
   height: fit-content;
   width: 30px;
 }
 .inche_img {
   width: 130px;
-}
-.badge_text {
-  color: #00c3ff;
-  font-size: 16px;
-  margin-left: 1rem;
 }
 .gradiant {
   margin: 0 auto;
@@ -363,6 +396,9 @@ label {
 }
 .verified_text {
   min-height: 75px;
+}
+.verified_pane .bg-black {
+  border-radius: 0 0 5px 5px;
 }
 .grid_pane {
   display: flex;
@@ -380,9 +416,10 @@ label {
 }
 .bottle {
   position: relative;
-  width: fit-content;
+  width: 100%;
   max-width: 700px;
   right: 0;
+  z-index: 0;
 }
 .title-2 {
   font-size: 50px;
@@ -848,15 +885,8 @@ label span.red {
     width: calc(100% - 20px);
     font-size: 10px;
   }
-  .badge_img, .verified_user img {
+  .verified_user img {
     width: 20px;
-  }
-  .badge_text {
-    margin-left: 8px;
-    font-size: 10px;
-  }
-  .inche_img {
-    width: 100px;
   }
   .gradiant img {
     height: 2px;

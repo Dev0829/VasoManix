@@ -1,13 +1,13 @@
 $(document).ready(function(){
   if ($(window).width() < 768) {
-    $('.nav-wrapper').addClass('hidden');
+    $('header .nav-wrapper').addClass('hidden');
   }
   $('.header-topbar').click(function() {
     $(this).toggleClass('change');
     if ($(this).hasClass("change")) {
-      $('.nav-wrapper').removeClass('hidden');
+      $('header .nav-wrapper').removeClass('hidden');
     } else {
-      $('.nav-wrapper').addClass('hidden');
+      $('header .nav-wrapper').addClass('hidden');
     }
   });
 });

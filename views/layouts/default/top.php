@@ -15,10 +15,10 @@ use app\helpers\UtilityHelper;
     </div>
     <div class="nav-wrapper d-flex align-center">
       <a href="/products/">HOME</a>
-      <a href="/products/">HOW IT WORKS</a>
-      <a href="/products/">FAQ</a>
-      <a href="/products/">GUARANTEE</a>
-      <a href="/products/">ORDER</a>
+      <a href="/products/howitworks">HOW IT WORKS</a>
+      <a href="/products/faq">FAQ</a>
+      <a href="/products/guarantee">GUARANTEE</a>
+      <a href="/products/order">ORDER</a>
     </div>
   </div>
 </header>

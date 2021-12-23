@@ -5,7 +5,8 @@ $this->params['data'] = ['page' => 'home', 'title' => 'Home'];
 <div class="wrapper-1">
   <img class="bg_wrapper1" src="/products/images/bg_wrapper1.png">
   <div class="container position-relative d-flex align-center">
-    <img class="actor_1" src="/products/images/actor_1.png">
+    <img class="actor_1 desktop-only" src="/products/images/actor_1.png">
+    <img class="actor_1 mobile-only" src="/products/images/actor_1_mobile.png">
     <div class="information_pane">
       <h1 class="semibold mb-10">DO YOU THINK <br>A 6-INCH PENIS IS</h1>
       <img src="/products/images/promo_icon.png">
@@ -74,7 +75,7 @@ $this->params['data'] = ['page' => 'home', 'title' => 'Home'];
           <p class="grid_des">Extend sexual pleasure and satisfaction</p>
         </div>
       </div>
-      <button class="cta_btn mt-30 mb-30">RUSH MY ORDER NOW</button>
+      <a href="/products/order"><button class="cta_btn mt-30 mb-30">RUSH MY ORDER NOW</button></a>
     </div>
     <div class="col-7">
       <img src="/products/images/bottle_award.png">
@@ -82,9 +83,10 @@ $this->params['data'] = ['page' => 'home', 'title' => 'Home'];
   </div>
 </div>
 <div class="wrapper-5">
-  <img class="bg_wrapper5" src="/products/images/bg_wrapper5.png">
+  <img class="bg_wrapper5 desktop-only" src="/products/images/bg_wrapper5.png">
+  <img class="bottle mobile-only" src="/products/images/bottle_mobile.png">
   <div class="container d-flex position-relative">
-    <img class="bottle" src="/products/images/bottle.png">
+    <img class="bottle desktop-only" src="/products/images/bottle.png">
   </div>
 </div>
 <div class="wrapper-6 section-space bg-white">
@@ -97,9 +99,10 @@ $this->params['data'] = ['page' => 'home', 'title' => 'Home'];
   </div>
 </div>
 <div class="wrapper-7 section-space">
-  <img class="bg_wrapper7" src="/products/images/bg_wrapper7.png">
+  <img class="bg_wrapper7 desktop-only" src="/products/images/bg_wrapper7.png">
+  <img class="bg_wrapper7 mobile-only" src="/products/images/bg_wrapper7_mobile.png">
   <div class="container">
-    <h2 class="uppercase mt-0">What <span class="red">VASOMANIX</span> CAN DO FOR YOU</h2>
+    <h2 class="uppercase white mt-0">What <span class="red">VASOMANIX</span><br class="mobile-only"> CAN DO FOR YOU</h2>
     <div class="d-flex white text-center pt-30">
       <div class="d-flex flex-direction-column pl-30 pr-30">
         <img class="item" src="/products/images/item_1.png">
@@ -117,10 +120,11 @@ $this->params['data'] = ['page' => 'home', 'title' => 'Home'];
         <img class="item" src="/products/images/item_4.png">
         <p>Boost semen volume</p>
       </div>
-      <div class="d-flex flex-direction-column pl-30 pr-30">
+      <div class="d-flex flex-direction-column last pl-30 pr-30">
         <img class="item last" src="/products/images/item_5.png">
         <p>Extend sexual pleasure and satisfaction</p>
       </div>
+      <div class="clearfix"></div>
     </div>
   </div>
 </div>
@@ -129,27 +133,29 @@ $this->params['data'] = ['page' => 'home', 'title' => 'Home'];
     <h2 class="mb-0">VASOMANIX IS THE ONLY SCIENTIFICALLY PROVEN <br class="desktop-only">FORMULA TO DELIVER ALL OF THESE BENEFITS</h2>
     <h3 class="grey RiftBold">DON’T SETTLE FOR ANYTHING LESS <br class="desktop-only">CHOOSE VASOMANIX</h3>
     <h3 class="RiftDemi">SEE HOW VASOMANIX DOMINATES THE COMPETITION</h3>
-    <img class="table mt-30" src="/products/images/table.png">
+    <img class="table desktop-only mt-30" src="/products/images/table.png">
   </div>
+  <img class="table mobile-only mt-30" src="/products/images/table_mobile.png">
 </div>
 <div class="wrapper-9">
-  <img class="bg_wrapper9" src="/products/images/bg_wrapper9.jpg">
+  <img class="bg_wrapper9 desktop-only" src="/products/images/bg_wrapper9.jpg">
+  <img class="actor_3 mobile-only" src="/products/images/actor_3_mobile.png">
   <div class="container d-flex">
     <div class="col-7 pt-30 pb-60 pr-30">
-      <h2 class="mb-0 text-left">BREAKTHROUGH <br class="desktop-only"><span class="red">PENIS ENLARGEMENT PILL</span></h2>
+      <h2 class="mb-0 text-left">BREAKTHROUGH <br><span class="red">PENIS ENLARGEMENT PILL</span></h2>
       <p class="semibold grey">CERTIFIED BY WebMDMen as the ONLY PROVEN <br class="desktop-only">PENIS ENLARGEMENT FORMULA</p>
       <p class="pt-30">Researchers from the highly respected WebMDMen publication certify VasoManix as the world’s FIRST and ONLY scientifically proven penis enlargement formula.</p>
       <p class="pt-15">“After a careful review of VasoManix’s ingredients, technology, formula, and dosage, our team concluded that VasoManix has the strongest, most potent formula ever created to help increase penis length and girth. We worked closely with the scientists of VasoManix to understand the mechanics and science behind the formula, and we are incredibly surprised at the level of perfection that VasoManix presents to the struggling industry. For years, we’ve debunked hundreds of substandard male enhancement pills, and VasoManix definitively proves that penis enlargement is 100% possible and attainable for every man. Our research shows that men can gain 30-40% increased erect penis length and girth, and amazing progress is exhibited with every dose. Clearly, VasoManix is the only gold standard in penis enlargement supplements”</p>
-      <p class="pt-15">— Dr. James Jacobs, Lead Research Fellow, WebMDMen</p>
+      <p class="pt-15">— Dr. James Jacobs,<br class="mobile-only"> Lead Research Fellow, WebMDMen</p>
     </div>
     <div class="col-5 position-relative">
-      <img class="actor_3" src="/products/images/actor_3.png">
+      <img class="actor_3 desktop-only" src="/products/images/actor_3.png">
     </div>
   </div>
 </div>
 <div class="wrapper-10 section-space white">
   <img class="bg_wrapper10" src="/products/images/bg_wrapper10.png">
-  <h2>THE TRUE ADVANTAGE OF <br class="desktop-only">VASOMANIX</h2>
+  <h2>THE TRUE ADVANTAGE OF <br>VASOMANIX</h2>
   <div class="container">
     <div class="medal_pane d-flex align-center pt-30 pb-30">
       <div class="image_part d-flex">
@@ -191,7 +197,7 @@ $this->params['data'] = ['page' => 'home', 'title' => 'Home'];
 </div>
 <div class="wrapper-11 pt-60">
   <div class="container">
-    <h2 class="pb-60">DON’T JUST TAKE OUR WORD FOR IT!<br><span class="red">GET IT STRAIGHT FROM VASOMANIX MEN!</span></h2>
+    <h2 class="pb-60">DON’T JUST<br class="mobile-only"> TAKE OUR WORD FOR IT!<br><span class="red">GET IT STRAIGHT FROM VASOMANIX MEN!</span></h2>
     <div class="d-flex justify-content-center">
       <div class="testimonial_pane white">
         <img class="testimonial_actor" src="/products/images/actor_4.png">
@@ -225,7 +231,7 @@ $this->params['data'] = ['page' => 'home', 'title' => 'Home'];
       </div>
     </div>
     <div class="d-flex justify-content-center">
-      <div class="testimonial_pane white">
+      <div class="testimonial_pane last white">
         <img class="testimonial_actor" src="/products/images/actor_8.png">
         <p class="description">“After 30 years of working, I finally had time to enjoy myself. I bought a bottle of VasoManix to help me get erect, but man, it did way more than just that. It almost felt like I was back in my twenties the way I’m banging women these days, and I see a major improvement in my size! I didn’t know my penis could get this big!” </p>
         <h3 class="mb-0">Danny</h3>
@@ -447,7 +453,8 @@ $this->params['data'] = ['page' => 'home', 'title' => 'Home'];
   </div>
 </div>
 <div class="wrapper-17">
-  <img class="bg_wrapper17" src="/products/images/bg_wrapper17.png">
+  <img class="bg_wrapper17 desktop-only" src="/products/images/bg_wrapper17.png">
+  <img class="bg_wrapper17 mobile-only" src="/products/images/bg_wrapper17_mobile.png">
   <div class="container d-flex align-center position-relative">
     <div class="col-6">
       <img class="bottle_2" src="/products/images/bottle_2.png">
@@ -511,7 +518,7 @@ $this->params['data'] = ['page' => 'home', 'title' => 'Home'];
     </div>
   </div>
   <div class="d-flex justify-content-center">
-    <button class="cta_btn2 mt-30 mb-30">ORDER NOW</button>
+    <a href="/products/order"><button class="cta_btn2 mt-30 mb-30">ORDER NOW</button></a>
   </div>
 </div>
 <?php
