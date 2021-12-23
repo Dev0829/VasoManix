@@ -87,7 +87,7 @@ $this->params['data'] = ['page' => 'home', 'title' => 'Home'];
     <img class="bottle" src="/products/images/bottle.png">
   </div>
 </div>
-<div class="wrapper-6 section-space">
+<div class="wrapper-6 section-space bg-white">
   <div class="container">
     <h2 class="text-left mt-15 mb-30">OUR STORY</h2>
     <p>We conceptualized VasoManix in early 2010, with our core team of experts, including: nutritionists, sexologists, and naturopathy practitioners. Our goal was ambitious from the start - to create a revolutionary formula that can guarantee an increase in penis length and thickness. We spent the next 10 years on research, traveling through 5 continents, to source the best ingredients that would deliver the results that men want. </p>
@@ -240,106 +240,278 @@ $this->params['data'] = ['page' => 'home', 'title' => 'Home'];
   <div class="container">
     <h2 class="mt-0 mb-0 text-left">THE COMPLEX SCIENCE <br class="desktop-only">OF PENIS ENLARGEMENT</h2>
     <p class="bold">VASOMANIX REVEALS THE ONLY PROVEN METHOD TO<br class="desktop-only"> INCREASE PENIS LENGTH AND THICKNESS</p>
-    <div class="effect-section d-flex">
-      <div class="effect_pane">
-        <img class="effect_1" src="/products/images/effect_1.png">
-        <p class="effect_title mt-0 mb-0">STEP1</p>
-        <p class="effect_des">LIBIDO ENHANCEMENT</p>
+    <div class="effect-section d-flex justify-content-center">
+      <div class="effect_pane step1">
+        <img class="actor actor_9" src="/products/images/actor_9.png">
+        <div class="parallelogram">
+          <p class="effect_title mt-0 mb-0">STEP1</p>
+          <p class="effect_sub_title mt-0 mb-0">LIBIDO ENHANCEMENT</p>
+          <p class="effect_des">Men instantly get stronger and harder erections at the peak of their libido. VasoManix uses highly-potent testosterone-boosting agents that supercharge a man’s libido, allowing men to become extremely sensitive to sexual stimuli. This allows men to experience extraordinary erections that are fully rigid and erect. </p>
+        </div>
+      </div>
+      <div class="effect_pane step2">
+        <img class="actor actor_10" src="/products/images/actor_10.png">
+        <div class="parallelogram">
+          <p class="effect_title mt-0 mb-0">STEP 2</p>
+          <p class="effect_sub_title mt-0 mb-0">INTENSE VASOLIDATION</p>
+          <p class="effect_des">Erections are highly dependent on blood flow, particularly from the penile artery. VasoManix contains ingredients that dilate the penile artery, which opens up the blood flow to the penile chambers. This allows the penile chambers to fully engorge in a matter of seconds, and with the influence of increased testosterone, the penis reaches its peak erection size and hardness.</p>
+        </div>
+      </div>
+      <div class="effect_pane step3">
+        <img class="actor actor_11" src="/products/images/actor_11.png">
+        <div class="parallelogram">
+          <p class="effect_title mt-0 mb-0">STEP 3</p>
+          <p class="effect_sub_title mt-0 mb-0">PENILE TISSUE ELONGATION</p>
+          <p class="effect_des">Upon reaching peak erection status, the sustained increase of blood volume and pressure would allow the elastic penile tissue to stretch even further, adding a siavagnificant increase in penis length and girth. At this stage, erections are visibly larger and more sensitive, especially during sexual intercourse.</p>
+        </div>
+      </div>
+      <div class="effect_pane step4">
+        <img class="actor actor_12" src="/products/images/actor_12.png">
+        <div class="parallelogram">
+          <p class="effect_title mt-0 mb-0">STEP 4</p>
+          <p class="effect_sub_title mt-0 mb-0">PENILE TISSUE GROWTH</p>
+          <p class="effect_des">Just like how new muscle fibers are developed with exercise and hypertrophy, the consistent peak elongation of the penis would trigger additional penile tissue growth, which permanently adds length and girth to your erections.</p>
+        </div>
       </div>
     </div>
   </div>
 </div>
-
-
-
-
-
-
-
-<div class="wrapper-27 bg-lightgrey section-space">
-  <div class="container">
+<div class="wrapper-13">
+  <div class="container pt-60">
+    <h2 class="RiftBold mt-0 mb-0">TAKE IT FROM THE EXPERTS</h2>
+    <p class="bold text-center">SEE WHAT THE MOST RESPECTED PUBLICATIONS<br class="desktop-only"> SAY ABOUT VASOMANIX</p>
     <div class="item-wrapper">
       <div class="item_pane">
+        <p>“VasoManix is easily the best penis enlargement formula we’ve ever seen. Every element of this supplement is top-notch, from the ingredients to the technology. We haven’t seen this level of expertise and know-how with any other pill on the market today.”</p>
         <div class="intro_pane">
-          <img class="first" src="/products/images/item_5.png">
-          <p class="description blue mobile-only pt-15">www.nutramanix.com</p>
-          <div class="star_pane d-flex flex-direction-column align-center desktop-only">
-            <span class="star_mark">5.0</span>
-            <img class="stars" src="/products/images/stars.png">
-          </div>
-        </div>
-        <p class="description">We’re always skeptical when we review a product that claims to increase penis size. Before Superior Male, we never came across a real natural enlargement supplement. Everything else was just a fluke. We studied the ingredients, made comparisons, and we actually tried the product. That’s how we know Superior Male is legit because it looked good on paper, but its real-life results go way beyond your imagination.</p>
-        <p class="description blue desktop-only pt-15">www.nutramanix.com</p>
-        <div class="d-flex flex-direction-column align-center mobile-only">
-          <span class="star_mark">5.0</span>
+          <p class="description bold">MensLifeAdvice</p>
           <img class="stars" src="/products/images/stars.png">
         </div>
       </div>
-      <div class="item_pane mt-30">
+      <div class="item_pane">
+        <p>“We’ve reviewed hundreds of supplements, and most of the time we criticize the lack of research and science on these products, but with VasoManix, it felt like we were learning as we go. There’s so much in this supplement that no other product in the market has, and it’s easily the most advanced penis enlargement pill today.”</p>
         <div class="intro_pane">
-          <img src="/products/images/item_6.png">
-          <p class="description blue pt-15 mobile-only">www.maxfitnesstoday.com</p>
-          <div class="star_pane d-flex flex-direction-column align-center desktop-only">
-            <span class="star_mark">5.0</span>
-            <img class="stars" src="/products/images/stars.png">
-          </div>
-        </div>
-        <p class="description">Superior Male was the easiest supplement to review. It has everything we want in a natural enlargement supplement. <br>It has the science, the ingredients, and the quality that we all want to see. We ran Superior Male through the toughest of tests, and we even ran a pill through our spectrum analyzer, and everything checked out! This is the most impressive supplement we have ever come across! </p>
-        <p class="description blue pt-15 desktop-only">www.maxfitnesstoday.com</p>
-        <div class="d-flex flex-direction-column align-center mobile-only">
-          <span class="star_mark">5.0</span>
+          <p class="description bold">SupplementView</p>
           <img class="stars" src="/products/images/stars.png">
         </div>
       </div>
-      <div class="item_pane mt-30">
+      <div class="item_pane">
+        <p>“Ingredients make the supplement, and in this regard, VasoManix went all out. They got the best ingredients on the market today, and they didn’t care how much it costs or how challenging it would be to consistently produce high-level ingredients. They just want perfection, and they achieved it.”</p>
         <div class="intro_pane">
-          <img src="/products/images/item_7.png">
-          <p class="description blue pt-15 mobile-only">www.healthymensinfo.com</p>
-          <div class="star_pane d-flex flex-direction-column align-center desktop-only">
-            <span class="star_mark">5.0</span>
-            <img class="stars" src="/products/images/stars.png">
-          </div>
-        </div>
-        <p class="description">We all thought Superior Male was too good to be true until we actually saw and tried the pill. Every review we’ve seen about Superior Male so far has been accurate. This thing delivers real results. We have 5 guys on our staff who tried Superior Male, and all of them gained more than 2 inches in just a few weeks of taking Superior Male! I mean, what else could possibly beat that?</p>
-        <p class="description blue pt-15 desktop-only">www.healthymensinfo.com</p>
-        <div class="d-flex flex-direction-column align-center mobile-only">
-          <span class="star_mark">5.0</span>
+          <p class="description bold">HealthManix</p>
           <img class="stars" src="/products/images/stars.png">
         </div>
       </div>
-      <div class="item_pane mt-30">
+      <div class="item_pane">
+        <p>“Ten years from now, we’ll be looking back at VasoManix for kickstarting the real penis enlargement era. VasoManix is in a category of its own. We’ve seen a lot of products that claim to increase size, but VasoManix is by far the only product we’ve seen that has the formula to deliver.” </p>
         <div class="intro_pane">
-          <img src="/products/images/item_8.png">
-          <p class="description blue pt-15 mobile-only">www.totalmenslifestyle.com</p>
-          <div class="star_pane d-flex flex-direction-column align-center desktop-only">
-            <span class="star_mark">5.0</span>
-            <img class="stars" src="/products/images/stars.png">
-          </div>
-        </div>
-        <p class="description">Normally, we expose enlargement pills for their fraudulent claims, and we thought Superior Male was just another product of the same mold. We studied the formula, we analyzed the ingredients, and we tested the pills ourselves. Everything we’ve seen tells us that this stuff is 100% real. We gained size. We experienced results. We don’t need samples. We’re buying an entire box of this stuff!</p>
-        <p class="description blue pt-15 desktop-only">www.totalmenslifestyle.com</p>
-        <div class="d-flex flex-direction-column align-center mobile-only">
-          <span class="star_mark">5.0</span>
+          <p class="description bold">TotalMensLifestyle</p>
           <img class="stars" src="/products/images/stars.png">
         </div>
       </div>
-      <div class="item_pane mt-30">
+      <div class="item_pane">
+        <p>“If you want real penis enlargement results, there’s no other supplement to consider than VasoManix. You can only rely on science to achieve real penis enlargement, and VasoManix has surpassed every other supplement in this category.”</p>
         <div class="intro_pane">
-          <img src="/products/images/item_9.png">
-          <p class="description blue pt-15 mobile-only">www.topsupplementsnow.com</p>
-          <div class="star_pane d-flex flex-direction-column align-center desktop-only">
-            <span class="star_mark">5.0</span>
-            <img class="stars" src="/products/images/stars.png">
-          </div>
-        </div>
-        <p class="description">After reviewing thousands of supplements, we know for a fact that Superior Male is the only natural enlargement supplement that works. Our team examined every bit of scientific reference, research, and study involving Superior Male’s ingredients, and everything clearly checks out. This is something that no other supplement in the industry can replicate. This is the real deal. </p>
-        <p class="description blue pt-15 desktop-only">www.topsupplementsnow.com</p>
-        <div class="d-flex flex-direction-column align-center mobile-only">
-          <span class="star_mark">5.0</span>
+          <p class="description bold">TopSupplementsNow</p>
           <img class="stars" src="/products/images/stars.png">
         </div>
       </div>
     </div>
+  </div>
+</div>
+<div class="wrapper-14 bg-lightgrey">
+  <h2 class="RiftBold pt-60 mt-0 mb-0">VASOMANIX INGREDIENTS</h2>
+  <p class="description RiftBold">Vasotech formula</p>
+  <div class="container">
+    <div class="d-flex align-center pt-30 pb-30">
+      <div class="image_part d-flex">
+        <img src="/products/images/item_6.png">
+      </div>
+      <div class="description_part text-left">
+        <p class="title-2 mt-0 mb-0"><span class="bold">Fenugreek </span><span class="italic">(Trigonella foenum-graecum)</span></p>
+        <p>VasoManix contains an FDA-compliant fenugreek extract that works to build up total and free t-levels in the body to help intensify your libido and sexual performance. Fenugreek inhibits the 5-alpha reductase enzyme, which metabolizes test and reduces total t-levels, and this results in a massive buildup of t-levels, allowing you to experience more intense erections and a massive boost to your sex drive.</p>
+      </div>
+    </div>
+    <div class="d-flex align-center mt-30 pb-30">
+      <div class="image_part d-flex">
+        <img src="/products/images/item_7.png">
+      </div>
+      <div class="description_part text-left">
+        <p class="title-2 mt-0 mb-0"><span class="bold">Longjack</span></p>
+        <p>Longjack is more commonly known as Tongkat Ali, the best-known men’s sexual enhancement herb in Asia. Its diverse t-level boosting properties allow it to greatly increase total and free t-levels, which greatly enhance sex drive, sexual pleasure, and sexual performance. The powerful herb also contains key erectogenic phytochemicals that maximize erection strength and endurance, allowing you to experience harder, more intense erections with ease.</p>
+      </div>
+    </div>
+    <div class="d-flex align-center mt-30 pb-30">
+      <div class="image_part d-flex">
+        <img src="/products/images/item_8.png">
+      </div>
+      <div class="description_part text-left">
+        <p class="title-2 mt-0 mb-0"><span class="bold">KSM-66® </span><span class="italic">(Withania Somnifera)</span></p>
+        <p>KSM-66®, also known as the world’s BEST Ashwagandha, is the world’s most clinically-studied Ashwagandha product on the market today. Backed by plenty of clinical tests and scientific facts, KSM-66® is clinically proven to increase test levels for maximum sexual function and performance. It also has stress-reducing properties to reduce the risk of performance anxiety that typically leads to sexual dysfunction.</p>
+      </div>
+    </div>
+    <div class="d-flex align-center mt-30 pb-30">
+      <div class="image_part d-flex">
+        <img src="/products/images/item_9.png">
+      </div>
+      <div class="description_part text-left">
+        <p class="title-2 mt-0 mb-0"><span class="bold">Pure Diamond Matrix </span><span class="italic">(Zinc + Magnesium Aspartate + Vitamin B6)</span></p>
+        <p>The Pure Diamond Matrix is a key combination of the most important minerals for testosterone production. Zinc is essential for maintaining elevated t-levels, while Magnesium Aspartate aids in the conversion of cholesterol to test. The Pure Diamond Matrix is a key component in the formula as it acts as the base t-level boosting complex, working with the other key elements of the formula to greatly increase free and total t-levels to support erection strength, stamina, libido, and performance. </p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="wrapper-15 pt-30 pb-30 bg-grey">
+  <p class="description RiftBold">VASOMIX PROPRIETARY BLEND</p>
+  <div class="container">
+    <div class="d-flex align-center pt-30 pb-30">
+      <div class="image_part d-flex">
+        <img src="/products/images/item_10.png">
+      </div>
+      <div class="description_part text-left">
+        <p class="title-2 mt-0 mb-0"><span class="bold">L-Arginine </span></p>
+        <p>L-Arginine is a semi-essential amino acid that acts as a precursor to nitric oxide. Nitric oxide is a key compound that triggers vasodilation. It binds with GMP to create cGMP, the compound that relaxes smooth muscles in blood vessels, effectively dilating blood vessels and improving blood flow. As cGMP is naturally limited by PDE-5, L-Arginiine’s impact on the body is preserved and extended by the PDE-5 inhibitors in the formula, such as Long Jack and Horny Goat Weed.</p>
+      </div>
+    </div>
+    <div class="d-flex align-center mt-30 pb-30">
+      <div class="image_part d-flex">
+        <img src="/products/images/item_11.png">
+      </div>
+      <div class="description_part text-left">
+        <p class="title-2 mt-0 mb-0"><span class="bold">Horny Goat Weed</span></p>
+        <p>Horny Goat Weed, or Epimedium Sagittatum, is an herb known for its various androgenic benefits. It has intense t-level boosting and PDE-5 inhibitor properties, making it the perfect male performance ingredient. Icariin, the active component of Horny Goat Weed, is responsible for all of its androgenic benefits. VasoManix contains a 60% Icariin extract, the best and purest Icariin extract available for mass production today.</p>
+      </div>
+    </div>
+    <div class="d-flex align-center mt-30 pb-30">
+      <div class="image_part d-flex">
+        <img src="/products/images/item_12.png">
+      </div>
+      <div class="description_part text-left">
+        <p class="title-2 mt-0 mb-0"><span class="bold">Tribulus Terrestris</span></p>
+        <p>Tribulus Terrestris is an essential ingredient that maintains healthy t-level retention. It has properties that help neutralize the metabolism of test to estrogen by inhibiting the aromatase enzyme. As a result, the body builds up t-levels, while also reducing estrogen levels, which are counter-productive to the androgenic benefits of the formula.</p>
+      </div>
+    </div>
+    <div class="d-flex align-center mt-30 pb-30">
+      <div class="image_part d-flex">
+        <img src="/products/images/item_13.png">
+      </div>
+      <div class="description_part text-left">
+        <p class="title-2 mt-0 mb-0"><span class="bold">Maca Root</span></p>
+        <p>Maca is a native plant in Peru that has been used for centuries to improve fertility in livestock. In today’s modern supplement applications, Maca helps enhance intimate endurance by inhibiting the neurotransmitters that make you insensitive to intimacy triggers after having an orgasm. Maca root effectively reduces the refractory period, allowing you to improve your bedroom stamina.</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="wrapper-16 pt-30 pb-60 bg-darkgrey">
+  <p class="description RiftBold">OTHER INGREDIENTS</p>
+  <div class="container text-center">
+    <div class="d-flex">
+      <div class="d-flex flex-direction-column align-center pt-30 pb-30">
+        <img src="/products/images/item_14.png">
+        <p class="title-2 mb-0"><span class="bold">Muira Puama</span></p>
+        <p class="des-2">Boosts t-levels and improves erection quality.</p>
+      </div>
+      <div class="d-flex flex-direction-column align-center pt-30 pb-30">
+        <img src="/products/images/item_15.png">
+        <p class="title-2 mb-0"><span class="bold">Damiana Extract</span></p>
+        <p class="des-2">A nootropic known for boosting cognitive ability and sensitivity to intimacy.</p>
+      </div>
+      <div class="d-flex flex-direction-column align-center pt-30 pb-30">
+        <img src="/products/images/item_16.png">
+        <p class="title-2 mb-0"><span class="bold">Xanthoparmelia Scabrosa</span></p>
+        <p class="des-2">A potent t-level booster that synergizes with ZMA.</p>
+      </div>
+      <div class="d-flex flex-direction-column align-center pt-30 pb-30">
+        <img src="/products/images/item_17.png">
+        <p class="title-2 mb-0"><span class="bold">Rhodiola Rosea</span></p>
+        <p class="des-2">An adaptogen that is known to reduce physical and mental fatigue.</p>
+      </div>
+    </div>
+    <div class="d-flex justify-content-center">
+      <div class="d-flex flex-direction-column align-center pt-30 pb-30">
+        <img src="/products/images/item_18.png">
+        <p class="title-2 mb-0"><span class="bold">L-Citrulline</span></p>
+        <p class="des-2">A potent vasodilator capable of increasing nitrogen oxide levels to boost blood flow to the penis.</p>
+      </div>
+      <div class="d-flex flex-direction-column align-center pt-30 pb-30">
+        <img src="/products/images/item_19.png">
+        <p class="title-2 mb-0"><span class="bold">Saw Palmetto</span></p>
+        <p class="des-2">A potent t-level booster that suppresses the 5-alpha-reductase enzyme to boost t-levels and reduce DHT buildup to help neutralize prostate growth.</p>
+      </div>
+      <div class="d-flex flex-direction-column align-center pt-30 pb-30">
+        <img src="/products/images/item_20.png">
+        <p class="title-2 mb-0"><span class="bold">Butea Superba</span></p>
+        <p class="des-2">A potent erectogenic found in Southeast Asia and is used by locals in its raw form to boost virility and erection quality.</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="wrapper-17">
+  <img class="bg_wrapper17" src="/products/images/bg_wrapper17.png">
+  <div class="container d-flex align-center position-relative">
+    <div class="col-6">
+      <img class="bottle_2" src="/products/images/bottle_2.png">
+    </div>
+    <div class="col-6 white pt-120">
+      <h2 class="text-left mt-0 mb-0">GET THE ONLY PROVEN <br><span class="darkred">ENLARGEMENT FORMULA</span></h2>
+      <h3 class="mt-0 mb-0 RiftDemi">VasoManix with VasoTech and <br class="desktop-only">Pure Diamond Matrix</h3>
+      <p>Rated #1 by WebMDMen and <br class="desktop-only">20+ reputable health publications</p>
+    </div>
+  </div>
+</div>
+<div class="wrapper-18 section-space">
+  <img class="bg_wrapper18" src="/products/images/bg_wrapper18.png">
+  <div class="container d-flex align-center position-relative">
+    <div class="col-7 text-center">
+      <h2 class="mt-0 mb-0">VASOMANIX’S 100% RISK-FREE <br><span class="darkred">SATISFACTION GUARANTEE</span></h2>
+      <p>Our industry leading satisfaction guarantee is iron-clad proof of our confidence in VasoManix to deliver you breakthrough results. If for any reason you are less than 100% satisfied, simply give us a call, 7 days a week, and we’ll honor our promise with a full 90 Day Money Back Guarantee, from the date of your purchase.</p>
+    </div>
+    <div class="col-5 d-flex justify-content-center">
+      <img class="guarantee" src="/products/images/guarantee.png">
+    </div>
+  </div>
+</div>
+<div class="wrapper-19 section-space white">
+  <img class="bg_wrapper19" src="/products/images/bg_wrapper19.png">
+  <div class="container d-flex align-center">
+    <div class="col-7">
+      <img src="/products/images/bottle_award2.png">
+    </div>
+    <div class="col-5">
+      <div class="grid-wrapper">
+        <div class="grid_pane">
+          <img class="check" src="/products/images/check.png">
+          <p class="grid_des">PROVEN TO INCREASE WIDTH + LENGTH</p>
+        </div>
+        <div class="grid_pane">
+          <img class="check" src="/products/images/check.png">
+          <p class="grid_des">EXPERIENCE LIFE WITH A MASSIVE PENIS</p>
+        </div>
+        <div class="grid_pane">
+          <img class="check" src="/products/images/check.png">
+          <p class="grid_des">FREE 2 DAY – RUSHED + DISCREET SHIPPING</p>
+        </div>
+        <div class="grid_pane">
+          <img class="check" src="/products/images/check.png">
+          <p class="grid_des">SCIENTIFICALLY PROVEN + VALIDATED INGREDIENTS</p>
+        </div>
+        <div class="grid_pane">
+          <img class="check" src="/products/images/check.png">
+          <p class="grid_des">REVOULTIONARY FORMULA WITH TRUEPOTENCY ™ TECHNOLOGY</p>
+        </div>
+        <div class="grid_pane">
+          <img class="check" src="/products/images/check.png">
+          <p class="grid_des">RISK FREE - 90-DAY MONEY BACK GUARANTEE</p>
+        </div>
+        <div class="grid_pane">
+          <img class="check" src="/products/images/check.png">
+          <p class="grid_des">RANKED #1 BY 20+ INDUSTRY EXPERTS + INDEPENDENT STUDIES</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="d-flex justify-content-center">
+    <button class="cta_btn2 mt-30 mb-30">ORDER NOW</button>
   </div>
 </div>
 <?php

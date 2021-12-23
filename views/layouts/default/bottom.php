@@ -1,17 +1,28 @@
-<footer>
-  <div class="footer bg-black section-space">
-    <div class="container d-flex flex-direction-column align-center">
-      <div class="footer-nav pb-30">
-        <span class="white uppercase"><a href="/products/">Home</a></span>
-        <span class="white uppercase"><a href="/products/order">Order</a></span>
-        <span class="white uppercase"><a href="/products/terms">Terms & Conditions</a></span>
-        <span class="white uppercase"><a href="/products/privacy">Privacy Policy</a></span>
-        <span class="white uppercase last"><a href="/products/dmca">DMCA</a></span>
-      </div>
-      <a href="/products/">
-        <img class="logo" src="/products/images/logo_reverse.png">
+<footer class="bg-black pt-60">
+  <div class="container">
+    <div class="footer-top d-flex justify-content-between align-center">
+      <a class="d-flex" href="/products/">
+        <img src="/products/images/footer_logo.png">
       </a>
-      <p class="description medium white mt-0">Superior Male © 2021 . <br class="mobile-only">All Rights Reserved</p>
+      <div class="nav-wrapper d-flex align-center">
+        <a href="/products/">HOME</a>
+        <a href="/products/">HOW IT WORKS</a>
+        <a href="/products/">FAQ</a>
+        <a href="/products/">GUARANTEE</a>
+        <a href="/products/">ORDER</a>
+      </div>
+    </div>
+    <div class="footer-middle pt-120">
+      <div class="footer-nav d-flex align-center">
+        <a href="/products/">DMCA</a>
+        <a href="/products/">Terms & Conditions</a>
+        <a href="/products/">Privacy Policy</a>
+        <a href="/products/">Sitemap</a>
+      </div>
+    </div>
+    <div class="footer-bottom d-flex justify-content-between">
+      <p class="mt-0">VASOMANIX. © 2021. All Rights Reserved</p>
+      <img class="credit_card" src="/products/images/credit-cards.png">
     </div>
   </div>
 </footer>
