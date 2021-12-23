@@ -1048,6 +1048,9 @@ label span.red {
   .wrapper-6 {
     margin-top: unset;
   }
+  .wrapper-7 .d-flex .d-flex {
+    width: 100%;
+  }
   .gradient:after {
     width: 80%;
   }

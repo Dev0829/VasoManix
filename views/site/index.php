@@ -40,6 +40,7 @@ $this->params['data'] = ['page' => 'home', 'title' => 'Home'];
   </div>
 </div>
 <div class="wrapper-3 bg-lightgrey">
+  <img class="actor_2 mobile-only" src="/products/images/actor_2_mobile.png">
   <div class="container d-flex">
     <div class="col-6 section-space">
       <h2 class="text-left">It is <span class="red">SCIENTIFICALLY PROVEN</span> that Women prefer men<br class="desktop-only"> with bigger erections.</h2>
@@ -47,7 +48,7 @@ $this->params['data'] = ['page' => 'home', 'title' => 'Home'];
       <p class="semibold">That’s why we created VASOMANIX.</p>
     </div>
     <div class="col-6">
-      <img class="actor_2" src="/products/images/actor_2.png">
+      <img class="actor_2 desktop-only" src="/products/images/actor_2.png">
     </div>
   </div>
 </div>
