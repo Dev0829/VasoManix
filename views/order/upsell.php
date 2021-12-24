@@ -37,34 +37,14 @@ if(isset($_SESSION['previous_order'])){
 }
 ?>
 <link href="/products/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-<!-- <div class="upsell-header">
-  <img class="upsell_header" src="/products/images/upsell/upsell_header.png">
-  <div class="container d-flex flex-direction-column">
-    <p class="title white RiftDemiItalic">CALL TOLL FREE 1-800-296-1686</p>
-  </div>
-  <div class="upsell-main position-relative">
-    <img class="upsell_main" src="/products/images/upsell/upsell_main.png">
-    <div class="container d-flex justify-content-between align-center">
-      <a href="/products">
-        <img class="logo" src="/products/images/logo_reverse.png">
-      </a>
-      <div class="d-flex">
-        <span class="white"><a href="/products/">HOME</a></span>
-        <span class="white"><a href="/products/howitworks">HOW IT WORKS</a></span>
-        <span class="white"><a href="/products/faq">FAQ</a></span>
-        <span class="white"><a href="/products/guarantee">GUARANTEE</a></span>
-        <span class="white last"><a class="last" href="/products/sitemap">ORDER</a></span>
-      </div>
-    </div>
-  </div>
-</div> -->
+<link rel="stylesheet" href="/products/css/order.css">
 <!-- Intro Section -->
 <section class="intro-section">
   <div class="container text-center">
     <div class="content text-center">
       <h1 class="RiftDemiItalic">Congratulations!</h1>
       <h3 class="RiftDemiItalic">You just purchased one of the most powerful Male Enhancement Products in the world.</h3>
-      <h4 class="RiftMedium">And now there is a Breakthrough Formula that works with SUPERIOR MALE that is proven to </h4>
+      <h4 class="RiftMedium">And now there is a Breakthrough Formula that works with VasoManix that is proven to </h4>
       <h2 class="RiftMediumItalic">Double the Results in Half the Time.</h2>
       <h5 class="RiftDemi">Risk-Free &amp; Guaranteed PLUS FREE SHIPPING</h5>
     </div>
@@ -77,18 +57,18 @@ if(isset($_SESSION['previous_order'])){
       <div class="col-xl-6 text-center left mb-3 mb-xl-0">
         <div class="d-flex flex-column flex-lg-row align-items-center flex-xl-column">
           <div class="image">
-            <img src="/products/images/upsell/ueb-package.png" class="img-fluid" alt="SUPERIOR MALE">
+            <img src="/products/images/order/bottle.png" class="img-fluid" alt="VasoManix">
           </div>
           <div class="text">
             <h5 class="RiftMediumItalic">Clinically tested to increase testosterone</h5>
-            <h4 class="RiftDemiItalic">Using with SUPERIOR MALE will increase the effects</h4>
+            <h4 class="RiftDemiItalic">Using with VasoManix will increase the effects</h4>
             <h3 class="RiftDemiItalic">and drastically reduce the time</h3>
           </div>
         </div>
       </div>
       <div class="col-xl-6 text-center right">
         <div class="content mb-4 mb-lg-0">
-          <p>With your purchase of SUPERIOR MALE you are able to purchase Superior Boost for 50% off.</p>
+          <p>With your purchase of VasoManix you are able to purchase Superior Boost for 50% off.</p>
           <p>Superior Boost will raise free testosterone allowing you to reach the most optimal results of penis growth.</p>
           <p class="mb-4">Superior Boost will also give you the hardest and most massive erections possible.</p>
         </div>
@@ -147,7 +127,7 @@ if(isset($_SESSION['previous_order'])){
         </div>
       </div>
       <div class="footer-bottom d-flex justify-content-between">
-        <span>Superior Male © 2021. All Rights Reserved</span>
+        <span>VasoManix © 2021. All Rights Reserved</span>
         <img src="/products/images/upsell/upsell-payment.png" class="img-fluid">
       </div>
   </div>
