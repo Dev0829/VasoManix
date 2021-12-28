@@ -68,9 +68,9 @@ if(isset($_SESSION['previous_order'])){
       </div>
       <div class="col-xl-6 text-center right">
         <div class="content mb-4 mb-lg-0">
-          <p>With your purchase of VasoManix you are able to purchase Superior Boost for 50% off.</p>
-          <p>Superior Boost will raise free testosterone allowing you to reach the most optimal results of penis growth.</p>
-          <p class="mb-4">Superior Boost will also give you the hardest and most massive erections possible.</p>
+          <p>With your purchase of VasoManix you are able to purchase Vaso Boost for 50% off.</p>
+          <p>Vaso Boost will raise free testosterone allowing you to reach the most optimal results of penis growth.</p>
+          <p class="mb-4">Vaso Boost will also give you the hardest and most massive erections possible.</p>
         </div>
         <form action="/products/upsell/upsell-process" data-toggle="validator" method="POST" id="upsellForm">
           <input type="hidden" name="UpsellForm[previous_order_id]" value="<?= $previousOrderID; ?>">
@@ -99,39 +99,10 @@ if(isset($_SESSION['previous_order'])){
       </div>
     </div>
     <div class="upsell_disclaim pt-30">
-      <p class="MontserratRegular text-center">The statements contained herein have not been evaluated or analyzed by the Food and Drug Administration, and are therefore for information purposes only. Superior Boost is not intended to treat, cure, prevent, or otherwise aid in the cure of any disease or sickness. The information present should not be used in place of a physician's advice. Always consult a physician for medical advice and prior to taking Superior Boost.</p>
+      <p class="MontserratRegular text-center">The statements contained herein have not been evaluated or analyzed by the Food and Drug Administration, and are therefore for information purposes only. Vaso Boost is not intended to treat, cure, prevent, or otherwise aid in the cure of any disease or sickness. The information present should not be used in place of a physician's advice. Always consult a physician for medical advice and prior to taking Vaso Boost.</p>
     </div>
   </div>
 </section>
-<!-- <section class="footer">
-  <div class="bg-black section-space">
-    <div class="container d-flex flex-direction-column">
-      <div class="footer-top d-flex justify-content-between align-center">
-        <div class="d-flex flex-direction-column">
-          <a href="/products">
-            <img class="logo pt-60" src="/products/images/logo_reverse.png">
-          </a>
-          <div class="footer-nav pb-30">
-            <span class="white"><a href="/products/dmca">DMCA</a></span>
-            <span class="white"><a href="/products/terms">Terms & Conditions</a></span>
-            <span class="white"><a href="/products/privacy">Privacy Policy</a></span>
-            <span class="white last"><a href="/products/sitemap">sitemap</a></span>
-          </div>
-        </div>
-        <div class="footer-nav pt-60">
-          <span class="white"><a href="/products/">HOME</a></span>
-          <span class="white"><a href="/products/howitworks">HOW IT WORKS</a></span>
-          <span class="white"><a href="/products/faq">FAQ</a></span>
-          <span class="white"><a href="/products/guarantee">GUARANTEE</a></span>
-          <span class="white last"><a href="/products/order">ORDER</a></span>
-        </div>
-      </div>
-      <div class="footer-bottom d-flex justify-content-between">
-        <span>VasoManix © 2021. All Rights Reserved</span>
-        <img src="/products/images/upsell/upsell-payment.png" class="img-fluid">
-      </div>
-  </div>
-</section> -->
 <!-- Modal -->
 <div class="modal fade" id="upsellModal" tabindex="-1" role="dialog" data-bs-backdrop="static" aria-labelledby="" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered">

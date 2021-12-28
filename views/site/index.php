@@ -43,9 +43,9 @@ $this->params['data'] = ['page' => 'home', 'title' => 'Home'];
   <img class="actor_2 mobile-only" src="/products/images/actor_2_mobile.png">
   <div class="container d-flex">
     <div class="col-6 section-space">
-      <h2 class="text-left">It is <span class="red">SCIENTIFICALLY PROVEN</span> that Women prefer men<br class="desktop-only"> with bigger erections.</h2>
+      <h2 class="text-left mt-0 mb-15">It is <span class="red">SCIENTIFICALLY PROVEN</span> that Women prefer men<br class="desktop-only"> with bigger erections.</h2>
       <p>According to a recent study in the journal of National Academy of Sciences (NAS) and published in MedicalNewsToday, 98% of women said: “Size Does Matter.” It’s a well-known fact that men with bigger penises are preferred because bigger erections can stimulate nerve endings in the vagina that average penises can’t reach. The G-spot may be the most stimulated nerve cluster during sex, but the sweet spot is exposed when the vagina is penetrated by longer and thicker erections.</p>
-      <p class="semibold">That’s why we created VASOMANIX.</p>
+      <p class="semibold mb-0">That’s why we created VASOMANIX.</p>
     </div>
     <div class="col-6">
       <img class="actor_2 desktop-only" src="/products/images/actor_2.png">
@@ -206,41 +206,51 @@ $this->params['data'] = ['page' => 'home', 'title' => 'Home'];
       <div class="testimonial_pane white">
         <img class="testimonial_actor" src="/products/images/actor_4.png">
         <p class="description">“I love my boyfriend, but we reached a point where I don’t get satisfied with sex anymore. I kept thinking about guys who were bigger than him and it makes me feel guilty over nothing. I went online and bought him VasoManix – and WOW. He grew so much that I forgot about everything else! He’s now the biggest guy I’ve ever been with!”</p>
-        <h3 class="mb-0">Anne</h3>
-        <p class="mt-0 mb-0">Miami, Florida</p>
-        <img class="stars" src="/products/images/stars.png">
+        <div>
+          <h3 class="bold mb-0">Anne</h3>
+          <p class="mt-0 italic mb-0">Miami, Florida</p>
+          <img class="stars" src="/products/images/stars.png">
+        </div>
       </div>
       <div class="testimonial_pane white">
         <img class="testimonial_actor" src="/products/images/actor_5.png">
         <p class="description">“VasoManix kicks in pretty fast. I felt great energy in my first few doses. My wife was just surprised at how gung-ho I was in bed. Pretty soon she noticed that I was getting bigger. One time, she thought I was pushing a big toy inside her when all she was feeling was my rock-hard penis!” </p>
-        <h3 class="mb-0">Kevin</h3>
-        <p class="mt-0 mb-0">Phoenix, Arizona</p>
-        <img class="stars" src="/products/images/stars.png">
+        <div>
+          <h3 class="bold mb-0">Kevin</h3>
+          <p class="mt-0 italic mb-0">Phoenix, Arizona</p>
+          <img class="stars" src="/products/images/stars.png">
+        </div>
       </div>
     </div>
     <div class="d-flex justify-content-center">
       <div class="testimonial_pane white">
         <img class="testimonial_actor" src="/products/images/actor_6.png">
         <p class="description second">“My boyfriend started taking VasoManix as a dare. I didn’t expect how big he would get! I felt my lady parts get stretched beyond anything I’ve felt before, and he hit spots I didn’t know existed! Every time we have sex feels like the best sex of our lives. I love it!”</p>
-        <h3 class="mb-0">Jenny</h3>
-        <p class="mt-0 mb-0">Cleveland, Ohio</p>
-        <img class="stars" src="/products/images/stars.png">
+        <div>
+          <h3 class="bold mb-0">Jenny</h3>
+          <p class="mt-0 italic mb-0">Cleveland, Ohio</p>
+          <img class="stars" src="/products/images/stars.png">
+        </div>
       </div>
       <div class="testimonial_pane white">
         <img class="testimonial_actor" src="/products/images/actor_7.png">
         <p class="description second">“It didn’t take long before I started seeing the results from VasoManix. Two months ago, I was just a shy IT guy who can’t talk to women. Now, I’m still a shy IT guy with a big dick, and the women at work just can’t seem to shut up about how big I am.” </p>
-        <h3 class="mb-0">Dave</h3>
-        <p class="mt-0 mb-0">Baltimore, Maryland</p>
-        <img class="stars" src="/products/images/stars.png">
+        <div>
+          <h3 class="bold mb-0">Dave</h3>
+          <p class="mt-0 italic mb-0">Baltimore, Maryland</p>
+          <img class="stars" src="/products/images/stars.png">
+        </div>
       </div>
     </div>
     <div class="d-flex justify-content-center">
       <div class="testimonial_pane last white">
         <img class="testimonial_actor" src="/products/images/actor_8.png">
         <p class="description">“After 30 years of working, I finally had time to enjoy myself. I bought a bottle of VasoManix to help me get erect, but man, it did way more than just that. It almost felt like I was back in my twenties the way I’m banging women these days, and I see a major improvement in my size! I didn’t know my penis could get this big!” </p>
-        <h3 class="mb-0">Danny</h3>
-        <p class="mt-0 mb-0">New York City</p>
-        <img class="stars" src="/products/images/stars.png">
+        <div>
+          <h3 class="bold mb-0">Danny</h3>
+          <p class="mt-0 italic mb-0">New York City</p>
+          <img class="stars" src="/products/images/stars.png">
+        </div>
       </div>
     </div>
   </div>
@@ -415,40 +425,40 @@ $this->params['data'] = ['page' => 'home', 'title' => 'Home'];
 <div class="wrapper-16 pt-30 pb-60 bg-darkgrey">
   <p class="description RiftBold">OTHER INGREDIENTS</p>
   <div class="container text-center">
-    <div class="d-flex">
-      <div class="d-flex flex-direction-column align-center pt-30 pb-30">
+    <div class="d-flex justify-content-center">
+      <div class="other_item d-flex flex-direction-column align-center pt-30 pb-30">
         <img src="/products/images/item_14.png">
         <p class="title-2 mb-0"><span class="bold">Muira Puama</span></p>
         <p class="des-2">Boosts t-levels and improves erection quality.</p>
       </div>
-      <div class="d-flex flex-direction-column align-center pt-30 pb-30">
+      <div class="other_item d-flex flex-direction-column align-center pt-30 pb-30">
         <img src="/products/images/item_15.png">
         <p class="title-2 mb-0"><span class="bold">Damiana Extract</span></p>
         <p class="des-2">A nootropic known for boosting cognitive ability and sensitivity to intimacy.</p>
       </div>
-      <div class="d-flex flex-direction-column align-center pt-30 pb-30">
+      <div class="other_item d-flex flex-direction-column align-center pt-30 pb-30">
         <img src="/products/images/item_16.png">
         <p class="title-2 mb-0"><span class="bold">Xanthoparmelia Scabrosa</span></p>
         <p class="des-2">A potent t-level booster that synergizes with ZMA.</p>
       </div>
-      <div class="d-flex flex-direction-column align-center pt-30 pb-30">
+      <div class="other_item d-flex flex-direction-column align-center pt-30 pb-30">
         <img src="/products/images/item_17.png">
         <p class="title-2 mb-0"><span class="bold">Rhodiola Rosea</span></p>
         <p class="des-2">An adaptogen that is known to reduce physical and mental fatigue.</p>
       </div>
     </div>
     <div class="d-flex justify-content-center">
-      <div class="d-flex flex-direction-column align-center pt-30 pb-30">
+      <div class="other_item d-flex flex-direction-column align-center pt-30 pb-30">
         <img src="/products/images/item_18.png">
         <p class="title-2 mb-0"><span class="bold">L-Citrulline</span></p>
         <p class="des-2">A potent vasodilator capable of increasing nitrogen oxide levels to boost blood flow to the penis.</p>
       </div>
-      <div class="d-flex flex-direction-column align-center pt-30 pb-30">
+      <div class="other_item d-flex flex-direction-column align-center pt-30 pb-30">
         <img src="/products/images/item_19.png">
         <p class="title-2 mb-0"><span class="bold">Saw Palmetto</span></p>
         <p class="des-2">A potent t-level booster that suppresses the 5-alpha-reductase enzyme to boost t-levels and reduce DHT buildup to help neutralize prostate growth.</p>
       </div>
-      <div class="d-flex flex-direction-column align-center pt-30 pb-30">
+      <div class="other_item d-flex flex-direction-column align-center pt-30 pb-30">
         <img src="/products/images/item_20.png">
         <p class="title-2 mb-0"><span class="bold">Butea Superba</span></p>
         <p class="des-2">A potent erectogenic found in Southeast Asia and is used by locals in its raw form to boost virility and erection quality.</p>

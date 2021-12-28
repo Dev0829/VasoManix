@@ -449,7 +449,10 @@ h3 {
   width: fit-content;
   height: 100%;
   right: 0;
-  z-index: 0;
+  max-width: 700px;
+}
+.wrapper-3 h2 {
+  line-height: 1;
 }
 .information_pane {
   background-color: #170000d4;
@@ -542,6 +545,9 @@ h3 {
   margin: 0 30px;
 }
 .testimonial_pane {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   flex: 0 0 40%;
   position: relative;
   background-color: #d94141;
@@ -669,15 +675,18 @@ h3 {
 .wrapper-15 .description_part {
   margin-left: 0;
 }
+.wrapper-16 img {
+  width: 180px;
+}
+.other_item {
+  width: 25%; 
+}
 .title-2 {
   font-size: 20px;
 }
-.des-2 {
+/*.des-2 {
   width: 300px;
-}
-.wrapper-16 img {
-  width: 200px;
-}
+}*/
 .bottle_2 {
   position: absolute;
   width: fit-content;
@@ -1157,12 +1166,14 @@ body.thankyou .main-section h2 {
     flex-direction: row !important;
   }
 }
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1140px;
+  }
+}
 @media (min-width: 1300px) {
   .container {
     max-width: 1240px;
-  }
-  .flex-xl-column {
-    flex-direction: column !important;
   }
 }
 @media (max-width: 991px) {

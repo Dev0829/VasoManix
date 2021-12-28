@@ -448,7 +448,7 @@ use app\helpers\UtilityHelper;
             <button id="btnSubmitOrder" class="shipping_btn semibold">COMPLETE MY ORDER!</button>
             <div id="paypalContainer" class="text-center"></div>
           </div>
-          <p class="disclaimer_text text-center">Disclaimer: These statements have not been evaluated by the Food and Drug Administration. <br class="desktop-only">This product is not intended to diagnose, treat, cure, or prevent any disease.ed by the Food and Drug Administration.</p>
+          <p class="disclaimer_text text-center">Disclaimer: These statements have not been evaluated by the Food and Drug Administration. <br class="desktop-only">This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
         </div>
       </div>
     </div>
