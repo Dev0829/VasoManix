@@ -442,7 +442,7 @@ use app\helpers\UtilityHelper;
             <p class="mt-15">Click the checkbox to agree to the <a href="/products/terms"><span class="medium blue">Subscription Terms and Conditions.</span></a></p>
           </div>
           <div class="disclaimer_pane">
-            <p id="termsContainer" class="disclaimer_text pb-30">Subscription Terms and Conditions: For your convenience and to maximize your results you will be enrolled in our auto ship program and in <span class="month"></span> days of placing your order we will automatically send you a fresh <span class="month"></span> supply beginning in <span class="day"></span> days and every <span class="month"></span> thereafter for just $<span class="amount"></span> (free shipping), charged to the card you provide today. You may cancel anytime by emailing <a href="mailto:<?= UtilityHelper::getCustomParameters('SiteEmail'); ?>"><?= UtilityHelper::getCustomParameters('SiteEmail'); ?></a> or calling <a href="tel:<?= UtilityHelper::getCustomParameters('SitePhone'); ?>"><?= UtilityHelper::getCustomParameters('SitePhone'); ?></a>. No future commitments, no hassles. Cancel any time.</p>
+            <p id="termsContainer" class="disclaimer_text pt-15 text-center pb-30">Subscription Terms and Conditions: For your convenience and to maximize your results you will be enrolled in our auto ship program and in 21 days of placing your order we will automatically send you a fresh <span class="month"></span> supply beginning in <span class="day"></span> days and every <span class="month"></span> thereafter for just $<span class="amount"></span> (free shipping), charged to the card you provide today. You may cancel anytime by emailing <a href="mailto:<?= UtilityHelper::getCustomParameters('SiteEmail'); ?>"><?= UtilityHelper::getCustomParameters('SiteEmail'); ?></a> or calling <a href="tel:<?= UtilityHelper::getCustomParameters('SitePhone'); ?>"><?= UtilityHelper::getCustomParameters('SitePhone'); ?></a>. No future commitments, no hassles. Cancel any time.</p>
           </div>
           <div class="d-flex justify-content-center pt-30 pb-60">
             <button id="btnSubmitOrder" class="shipping_btn semibold">COMPLETE MY ORDER!</button>
@@ -464,11 +464,11 @@ use app\helpers\UtilityHelper;
   </div>
 </div>
 <?php
-// Superior Male Pro 1 Month
+// VasoManix 1 Month
 $pmx_1_month = UtilityHelper::getCustomParameters('pmx_1_month');
-// Superior Male Pro 3 Month
+// VasoManix 3 Month
 $pmx_3_month = UtilityHelper::getCustomParameters('pmx_3_month');
-// Superior Male Pro 6 Month
+// VasoManix 6 Month
 $pmx_6_month = UtilityHelper::getCustomParameters('pmx_6_month');
 // Shipping Info
 $shipping_info = UtilityHelper::getCustomParameters('shipping_info');

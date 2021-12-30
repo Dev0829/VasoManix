@@ -6,9 +6,6 @@
       </a>
       <div class="nav-wrapper d-flex align-center">
         <a href="/products/">HOME</a>
-        <a href="/products/howitworks">HOW IT WORKS</a>
-        <a href="/products/faq">FAQ</a>
-        <a href="/products/guarantee">GUARANTEE</a>
         <a href="/products/order">ORDER</a>
       </div>
     </div>

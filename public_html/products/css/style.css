@@ -524,6 +524,7 @@ h3 {
   margin: 0 auto;
 }
 .actor_3 {
+  position: relative;
   width: fit-content;
   right: 0;
   left: unset;
