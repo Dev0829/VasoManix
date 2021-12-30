@@ -14,18 +14,18 @@ $(document).ready(function(){
 // FUNCTIONS
 function updateAgreeText(termsContainer, productIdValue) {
   var selectedProduct = PRODUCTS[productIdValue];
-  var month = 'six-month';
-  var day = 168;
+  var month = 'one-month';
+  var day = 28;
 
   if(productIdValue == 'pmx_1_month') {
     month = 'one-month';
     day = 28;
   } else if(productIdValue == 'pmx_3_month') {
-    month = 'three-month';
-    day = 84;
+    month = 'one-month';
+    day = 28;
   } else if(productIdValue == 'pmx_6_month') {
-    month = 'six-month';
-    day = 168;
+    month = 'one-month';
+    day = 28;
   }
   
   termsContainer.find('.month').text(month);
